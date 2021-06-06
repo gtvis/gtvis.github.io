@@ -1,0 +1,59 @@
+# Welcome to the GT VIS Lab Website
+
+title: Georgia Tech Visualization Lab
+tagline: 
+email: gtvislab@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is the homepage of the Georgia Tech Visualization Lab.
+baseurl: "" # the subpath of your site
+url: "http://vis.gatech.edu"
+locale: en_US
+github: "https://github.com/gtvis"
+twitter:
+  card: summary
+  username: GT_Vis
+google_analytics: G-6V9MFRB4SQ
+logo: /assets/images/logo_bluegold.png
+author: GT_Vis
+
+collections:
+  groups:
+    output: false
+  students:
+    output: false
+  faculty:
+    output: false
+  courses:
+    output: false
+  publications:
+    output: false
+
+sass:
+  load_paths:
+      - node_modules
+
+# Build settings
+# theme: minima
+plugins:
+  - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+include: ["node_modules"]

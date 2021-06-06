@@ -1,0 +1,107 @@
+- title: COVID-19 research awarded CDC contract
+  _date: '2021-May-14'
+  image: /assets/images/news/cdc-riskTool.png
+  short_description: Weitz, Andris and team will work with CDC on COVID-19 Risk Mapping Tool.
+  description: 
+    The Center for Disease Control has awarded a $300,000 contract to Georgia Tech to help study human behavior and interaction with the COVID-19 Risk Assessment Tool, a mapping tool that allows users to assess the risk associated with attending events of different sizes. The team will be working with psychology resarchers at Duke University to measure how access to information changes behavioral response to attending events in the midst of COVID-19.
+
+- title: Recent Grads
+  _date: '2021-May-08'
+  image: /assets/images/news/grad_21_spring.png
+  short_description: Recent grads at Spring '21 Commencement.
+  description: 
+    Congratulations to our recent PhD graduates Arjun Srinivasan, John Thompson, and Po-Ming (Terrance) Law. They are moving on to Tableau, Microsoft Research, and Epsilon, respectively.
+    
+- title: New CHI papers
+  _date: '2021-May-07'
+  image: /assets/images/news/2021_chi.png
+  short_description: VIS researchers with multiple papers at CHI '21.
+  description: 
+    VIS Group researchers contributed three full papers at CHI '21 on topics such as animated visualizations, natural language specifications of visualizations, and causal perception in Q&A systems.
+
+- title: New EuroVis papers
+  _date: '2021-May-04'
+  image: /assets/images/news/eurovis2021.png
+  short_description: New papers and presentations at EuroVis 21.
+  description: 
+    The Vis Group contributed to EuroVis 2021, including serving on the Program Committee and publishing a new paper. The STAR report describes the results of a structured literature review that examines how user-centered evaluations of XAI tools can be categorized.
+
+- title: POInt Research Symposium
+  _date: '2021-April-30'
+  image: /assets/images/news/poi-research-symposium.png
+  short_description: GaTech holds first <a href="https://planning.gatech.edu/events/2021-point-symposium" target="_blank" onclick="event.stopPropagation()">Research Symposium on Points of Interest (POI) data</a>.
+  description: 
+    The POInt Research Symposium was a hit. It drew 50 participants from across the world in a virtual setting to discuss the future of spatial data that represents points of interest. There were 13 speakers, including four Tech graduate students. The discussion session pointed to a clear need for more data/analysis on how POI usage, and how communities can map and make good use of these data. A special issue on Social Infrastructure in the journal of <a href="https://www.springer.com/journal/43762" target="_blank" onclick="event.stopPropagation()">Computational Urban Science</a> will invite papers on this topic.
+
+- title: Haekyu Park wins JPMorgan Chase AI Research Ph.D. Fellowship
+  _date: '2021-April-22'
+  image: /assets/images/news/haekyupark.png
+  short_description: Haekyu Park, a CS PhD student, aims to create new methods that break down the black box of artificial intelligence (AI) for users.
+  description: 
+    Haekyu's human-centered approach increases machine learning interpretability for the financial tech sector with a newly awarded 2021 JPMorgan Chase AI Research Ph.D. Fellowship.
+
+- title: Stasko interim chair for IC
+  _date: '2021-March-01'
+  image: /assets/images/news/john_IC_chair.png
+  short_description: John was named Interim Chair for the School of Interactive Computing in March.
+  description: 
+    In March 2021, John became the Interim School Chair for the School of Interactive Computing in the College of Computing. John will lead IC while it undertakes the search process for a new full-time chair.
+
+- title: Clio awarded NSF CAREER award
+  _date: '2021-February-26'
+  image: /assets/images/news/andris-nsf-career-award.png
+  short_description: Andris wins NSF CAREER Award for project entitled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045271" target="_blank" onclick="event.stopPropagation()">"A Research and Educational Framework for Incorporating Spatial Heterogeneity into Social Network Analysis"</a>
+  description: 
+    This project will advance the quantiative study of interpersonal relationships and connectivity in geographic space, with an emphasis on best practices for spatial modeling, visualization, representation, software and exploratory spatial data analysis. We look forward to sharing our new data repository, R Code and visuals with the public so that social network researchers and mappers can learn how to combind SNs and GIS! The associated images are from Andris and colleages' paper on spatial social network analysis of mentorship ties from Big Brothers Big sisters. 
+
+- title: Recent Grads
+  _date: '2020-December-08'
+  image: /assets/images/news/grad_20.png
+  short_description: Congrats to our 2020 Graduates
+  description: 
+    VIS Group students Emily Wall, Bahador Saket, Fred Hohman, Hannah Kim, and Subhajit Das graduated! Congrats to them and to the next phase in their careers at Emory University, Mathworks, Apple, Megagon Labs, and 3M, respectively!
+    
+- title: New VIS papers
+  _date: '2020-October-24'
+  image: /assets/images/news/vis2020.png
+  short_description: New VIS papers published at VIS 2020
+  description:
+    VIS Group members contributed to IEEE VIS 2020 through co-organizing workshops, serving on the organizing and program committees, and publishing new papers. 
+
+- title: Welcome to new PhD students
+  _date: '2020-August-20'
+  image: /assets/images/news/Yu_Adam.png
+  short_description: Adam Coscia and Yu Fu join the Vis Group.
+  description:
+    Welcome Adam Coscia and Yu Fu, who joined the Vis Group in Fall 2020! They are both pursuing their PhD in Human-Centered Computing.
+
+- title: Strong Showing at VIS ’19 in Vancouver
+  _date: '2019-October-27'
+  image: /assets/images/news/2019_vis_group_photo.png
+  short_description: The GT Visualization Group had a strong showing at the IEEE VIS 2019 Conference in Vancouver, CA.
+  description: 
+    GT Visualization researchers had multiple papers, posters, and organizational roles at the IEEE VIS 2019 meeting in Vancouver, Canada in October. Overall, we were part of six full papers, five short papers, three workshops, and a tutorial. Prof. Alex Endert served as Co-General Chair for the meeting, and Prof. John Stasko was inducted into the initial class of the Visualization Academy. To learn more about the specifics of their contributions, please see the press release about involvement.
+
+- title: Welcome to new PhD students
+  _date: '2019-August-27'
+  image: /assets/images/news/2019_new_phd_students.png
+  short_description: The VIS Group welcomes three new PhD students this fall.
+  description:
+    Three new PhD students — Grace Guo, Arpit Narechania, and Shenyu Xu — have joined the VIS Group this fall.  We look forward to getting to know them better and to all the great work they’ll be doing in the future.
+
+
+- title: Prof. Clio Andris joins the VIS group
+  _date: '2019-August-1'
+  image: /assets/images/news/2019_new_faculty_clioandris.png
+  short_description: Clio Andris joined the VIS group bringing her expertise in geovisualization and GIS.
+  description: 
+    Assistant Professor Clio Andris joined Georgia Tech this fall and holds a joint appointment between the Schools of City and Regional Planning and Interactive Computing. Dr. Andris comes to us from Penn State University where she served as Assistant Professor in the Department of Geography. She founded and directed the Friendly Cities Lab and conducts  research in the areas of spatial networks and social flow theory. She brings added expertise in the area of geovisualization to the VIS group.
+
+- title: Distinguished VIS Lecture Spring 2019
+  _date: '2019-April-22'
+  image: /assets/images/news/distinguished_lecture_albertocairo.png
+  short_description: Alberto Cairo from the University of Miami presents "How the Public Misinterprets Visualizations and what we can do about it".
+  description: > 
+    In April, Alberto Cairo from the University of Miami visited and talked about his work. Alberto discussed how people often misinterpret visualizations, and what we can do to help this and to create better visualizations in general. Alberto spent the day with us in the GT Vis Lab, and also was the external member of John Thompson’s PhD thesis proposal committee. 
+    
+    For more details about his talk, see the <a href="https://www.cc.gatech.edu/calendar/day/2019/04/22/15080" target="_blank">news release about it</a>.

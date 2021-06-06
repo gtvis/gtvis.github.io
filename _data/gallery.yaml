@@ -1,0 +1,31 @@
+- title: Lab
+  description: The Visualization Lab in the Technology Square Research Building.
+  image: /assets/images/gallery/lab.png
+
+- title: Lab
+  description: The Technology Square Research Building in Midtown Atlanta.
+  image: /assets/images/gallery/techsquare.png
+
+- title: Tech Square
+  description: The Technology Square area in Midtown Atlanta.
+  image: /assets/images/gallery/techsquare2.png
+
+- title: Tech Trolley
+  description: The iconic Tech Trolley.
+  image: /assets/images/gallery/trolley.png
+
+- title: IEEE VIS'2019, Vancouver, CA
+  description: Annual meet-up of the Visualization Lab alumni at IEEE VIS Conference in Vancouver, CA.
+  image: /assets/images/gallery/gt-vis19.png
+
+- title: IEEE VIS'2018, Berlin, DE
+  description: Annual meet-up of the Visualization Lab alumni at IEEE VIS Conference in Berlin, DE.
+  image: /assets/images/gallery/gt-vis18.png
+
+- title: IEEE VIS'2017, Phoenix, AZ
+  description: Annual meet-up of the Visualization Lab alumni at IEEE VIS Conference in Phoenix, AZ.
+  image: /assets/images/gallery/gt-vis17.png
+
+- title: Remote Vis Lab Meeting
+  description: Remote lab meetings during virtual semesters.
+  image: /assets/images/gallery/gt-vis-remote-meetings.png

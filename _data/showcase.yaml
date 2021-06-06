@@ -1,0 +1,43 @@
+- title: Data Animator
+  image: /assets/images/showcase/data-animator.png
+  description: Authoring Expressive Animated Data Graphics
+
+- title: Data Illustrator
+  image: /assets/images/showcase/data-illustrator.png
+  description: Create infographics and data visualizations without programming.
+
+- title: DataBreeze
+  image: /assets/images/showcase/databreeze.png
+  description: Experience Multimodal Interactions with Visualizations for Data Exploration
+
+- title: Vega-Lite Editor
+  image: /assets/images/showcase/nl4dv-vleditor.png
+  description: A Natural-Language powered Vega-Lite Editor using NL4DV
+
+- title: NL4DV
+  image: /assets/images/showcase/nl4dv-jupyter-notebook.png
+  description: The Natural Language Toolkit For Data Visualization!
+
+- title: CNN Explainer
+  image: /assets/images/showcase/cnn-explainer.png
+  description: Learn Convolutional Neural Network (CNN) in your browser!
+
+- title: Detecting and Mitigating Biased Visual Analysis Strategies
+  image: /assets/images/showcase/bias-teaser.png
+  description:
+
+- title: Visual Analytics by Demonstration for Interactive Data Analysis
+  image: /assets/images/showcase/vbd-diagram.png
+  description:
+
+- title: Bluff
+  image: /assets/images/showcase/bluff.png
+  description: Interactively Decipher Adverserial Attacks on Deep Neural Networks!
+
+- title: SafetyLens
+  image: /assets/images/showcase/safetylens.png
+  description: Visual Data Analysis of Functional Safety of Vehicles
+
+- title: Social Network Analysis
+  image: /assets/images/showcase/social-network-analysis.png
+  description: A Research and Educational Framework for Incorporating Spatial Heterogeneity into Social Network Analysis

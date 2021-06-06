@@ -1,0 +1,112 @@
+/* Home Section */
+#welcome {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6em;
+    color: #161614;
+    opacity: 0.8;
+}
+
+#home .carousel img {
+    border-radius: 6px;
+}
+
+#home .carousel p {
+    text-align: center;
+    margin-top: 8px;
+}
+
+#home .card {
+    min-height: 410px;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+    transition: all 0.1s ease;
+}
+
+#home a:hover {
+    text-decoration: none;
+}
+
+#home .card .card-img-top {
+    padding: 16px;
+    width: 100%;
+    height: auto;
+}
+
+#home p {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #3F3E3B;
+}
+
+#home .card-img-top {
+    object-fit: contain;
+    width: auto;
+    min-height: 120px;
+}
+
+#home .card-text {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    color: #3F3E3B;
+}
+
+#home .keywords {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #3F3E3B;
+}
+
+#home .group-name {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6em;
+    color: #161614;
+    opacity: 0.8;
+}
+
+#home .group-professor {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #3F3E3B;
+}
+
+@media screen and (max-width: 1000px) {
+    #home p {
+        line-height: 2em;
+    }
+
+    #home .card {
+        height: auto;
+        margin-bottom: 42px;
+    }
+
+    #home .carousel {
+        margin-top: 40px;
+    }
+
+    #home #scroll-text {
+        text-align: center;
+    }
+
+    #home .group-name {
+        font-size: 1.2em;
+    }
+
+    #home .group-professor {
+        font-size: 1.1em;
+    }
+}

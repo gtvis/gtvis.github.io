@@ -1,0 +1,81 @@
+/* Students Section */
+#students .thumbnail {
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+    width: 100px;
+    object-fit: cover;
+    margin: 4px;
+}
+
+#students p {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #3F3E3B;
+    text-align: center;
+}
+
+.filter {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.filter a {
+    margin-left: 36px;
+    margin-right: 36px;
+    font-family: Bai Jamjuree;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1em;
+    color: #3F3E3B;
+    opacity: 0.6;
+}
+
+.filter a:hover {
+    text-decoration: none;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.filter .active-selection {
+    opacity: 1;
+    border-bottom: 2px solid #F0B310;
+    display: inline-block;
+    line-height: 2em;
+}
+
+#banner {
+    padding: 16px;
+    padding-bottom: 10px;
+
+    background-color: white;
+
+    border: 2px solid #F0B310;
+    border-left: 30px solid #F0B310;
+
+    margin-top: 30px;
+
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+}
+
+#banner p {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 27px;
+    color: #3F3E3B;
+}
+
+@media screen and (max-width: 1000px) {
+    .filter a {
+        font-size: 0.8em !important;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "vis.gatech.edu",
+  "version": "1.0.0",
+  "description": "Website of the Georgia Tech Visualization Lab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtvis/gtvis.github.io.git"
+  },
+  "keywords": [
+    "Georgia Tech Visualization Lab",
+    "VA Lab",
+    "Friendly Cities Lab",
+    "Polo Club of Data Science",
+    "Information Interfaces Group",
+    "Georgia Institute of Technology"
+  ],
+  "author": "Arpit Narechania",
+  "bugs": {
+    "url": "https://github.com/gtvis/gtvis.github.io/issues"
+  },
+  "homepage": "https://github.com/gtvis/gtvis.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "jquery-ui-dist": "^1.12.1",
+    "jquery-ui-touch-punch": "^0.2.3",
+    "popper.js": "^1.16.1",
+    "select2": "^4.1.0-rc.0",
+    "slick-carousel": "^1.8.1"
+  }
+}

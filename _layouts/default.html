@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+  <title>{{ page.headtitle }}</title>
+  <link rel=icon href="{{'/assets/images/favicon.png' | prepend: site.baseurl}}">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@600;700&display=swap">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap">
+
+  <link rel="stylesheet" type="text/css" href="{{'/node_modules/font-awesome/css/font-awesome.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/node_modules/bootstrap/dist/css/bootstrap.min.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/node_modules/slick-carousel/slick/slick.css' | prepend: site.baseurl}}"/>
+  <link rel="stylesheet" type="text/css" href="{{'/node_modules/jquery-ui-dist/jquery-ui.min.css' | prepend: site.baseurl}}"/>
+  <link rel="stylesheet" type="text/css" href="{{'/node_modules/select2/dist/css/select2.min.css' | prepend: site.baseurl}}"/>
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/styles.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/page.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/nav.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/cards.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/home.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/faculty.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/sponsors.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/students.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/courses.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/groups.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/publications.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/news.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/gallery.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/sc-links.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/footer.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/margins.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/paddings.css' | prepend: site.baseurl}}">
+  <link rel="stylesheet" type="text/css" href="{{'/assets/css/spacings.css' | prepend: site.baseurl}}">
+  
+  <script type="text/javascript" src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+  <script type="text/javascript" src="{{'/node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+  <script type="text/javascript" src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+  <script type="text/javascript" src="{{'/node_modules/slick-carousel/slick/slick.min.js' | prepend: site.baseurl}}"></script>
+  <script type="text/javascript" src="{{'/node_modules/jquery-ui-dist/jquery-ui.min.js' | prepend: site.baseurl}}"></script>
+  <script type="text/javascript" src="{{'/node_modules/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js' | prepend: site.baseurl}}"></script>
+  <script type="text/javascript" src="{{'/node_modules/select2/dist/js/select2.min.js' | prepend: site.baseurl}}"></script>
+
+  {% seo %}
+
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+</head>
+<body>
+  {% include navigation.html %}
+  <div class="flex-1">{{ content }}</div>
+  <div class="vspace-lg"></div>
+  {% include footer.html %}
+</body>
+
+</html>

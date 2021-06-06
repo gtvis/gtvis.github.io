@@ -1,0 +1,108 @@
+<div id="nav">
+  <div class="mob-hide">
+    <a href="{{'/' | prepend: site.baseurl}}" {% if page.url == "/" %} class="active" {% endif %}>Home</a>
+    <a href="{{'/news/' | prepend: site.baseurl}}" {% if page.url == '/news/' %} class="active" {% endif %}>News</a>
+    <a href="{{'/faculty/' | prepend: site.baseurl}}" {% if page.url == '/faculty/' %} class="active"
+      {% endif %}>Faculty</a>
+    <a href="{{'/students/' | prepend: site.baseurl}}" {% if page.url == '/students/' %} class="active"
+      {% endif %}>Students</a>
+    <a href="{{'/groups/' | prepend: site.baseurl}}" {% if page.url == '/groups/' %} class="active"
+      {% endif %}>Groups</a>
+    <a href="{{'/courses/' | prepend: site.baseurl}}" {% if page.url == '/courses/' %} class="active"
+      {% endif %}>Courses</a>
+    <a href="{{'/showcase/' | prepend: site.baseurl}}" {% if page.url == '/showcase/' %} class="active"
+      {% endif %}>Showcase</a>
+    <a href="{{'/publications/' | prepend: site.baseurl}}" {% if page.url == '/publications/' %} class="active"
+      {% endif %}>Publications</a>
+    <a href="{{'/sponsors/' | prepend: site.baseurl}}" {% if page.url == '/sponsors/' %} class="active"
+      {% endif %}>Sponsors</a>
+  </div>
+
+  <!--Navbar-->
+  <nav class="navbar back-white" id="ham-menu">
+
+
+    <!-- Collapse button -->
+    <button class="navbar-toggler toggler-example" id="hamburger-button" type="button" data-toggle="collapse"
+      data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false"
+      aria-label="Toggle navigation"><span class="dark-blue-text"><i class="fa fa-bars"></i></span></button>
+
+    <h1 id="ham-logo" class="hide-ham">GT Visualization Lab</h1>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+
+      <!-- Links -->
+      <ul class="navbar-nav mr-auto">
+        <div class="container">
+          <div class="row">
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/' | prepend: site.baseurl}}" {% if page.url == "/" %} class="active" {% endif %}>Home</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/news/' | prepend: site.baseurl}}" {% if page.url == '/news/' %} class="active"
+                {% endif %}>News</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/faculty/' | prepend: site.baseurl}}" {% if page.url == '/faculty/' %} class="active"
+                {% endif %}>Faculty</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/students/' | prepend: site.baseurl}}" {% if page.url == '/students/' %} class="active"
+                {% endif %}>Students</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/groups/' | prepend: site.baseurl}}" {% if page.url == '/groups/' %} class="active"
+                {% endif %}>Groups</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/courses/' | prepend: site.baseurl}}" {% if page.url == '/courses/' %} class="active"
+                {% endif %}>Courses</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/showcase/' | prepend: site.baseurl}}" {% if page.url == '/showcase/' %} class="active"
+                {% endif %}>Showcase</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/publications/' | prepend: site.baseurl}}" {% if page.url == '/publications/' %} class="active"
+                {% endif %}>Publications</a>
+            </li>
+            <li class="nav-item col-12 col-md-4">
+              <a href="{{'/sponsors/' | prepend: site.baseurl}}" {% if page.url == '/sponsors/' %} class="active"
+                {% endif %}>Sponsors</a>
+            </li>
+          </div>
+        </div>
+      </ul>
+      <!-- Links -->
+    </div>
+    <!-- Collapsible content -->
+  </nav>
+  <!--/.Navbar-->
+</div>
+
+<script>
+  let prev = 0;
+
+
+  $(window).on('scroll', function () {
+    // Current Scroll Position
+    let scrollTop = $(window).scrollTop();
+
+
+    // Initial Navbar Condition
+    $('#ham-logo').toggleClass('hide-ham', scrollTop < 300);
+    $('#ham-menu').toggleClass('bottom-border', scrollTop > 300);
+
+    // Nav-bar behaviour 
+    if (scrollTop > 300) {
+      $('#ham-menu').toggleClass('hidden-nav', scrollTop > prev);
+      prev = scrollTop;
+    } 
+  });
+
+  $('#hamburger-button').on('click', function() {
+    $('#ham-menu').toggleClass('expanded-menu ');
+  });
+
+</script>

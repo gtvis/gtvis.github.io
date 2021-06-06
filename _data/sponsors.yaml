@@ -1,0 +1,123 @@
+- name: Adobe
+  image: /assets/images/sponsors/adobe.png
+  website: https://www.adobe.com/
+
+- name: Amazon
+  image: /assets/images/sponsors/amazon.png
+  website: https://www.amazon.com/
+
+- name: AWS Educate
+  image: /assets/images/sponsors/aws_educate.png
+  website: https://aws.amazon.com/education/awseducate/
+
+- name: Bosch
+  image: /assets/images/sponsors/bosch.png
+  website: https://www.bosch.com/
+
+- name: Childrens Healthcare Atlanta
+  image: /assets/images/sponsors/childrens_healthcare_atlanta.png
+  website: https://www.choa.org/
+
+- name: Cisco
+  image: /assets/images/sponsors/cisco.png
+  website: https://www.cisco.com/
+
+- name: DARPA
+  image: /assets/images/sponsors/darpa.png
+  website: https://www.darpa.mil/
+
+- name: Department of Defence
+  image: /assets/images/sponsors/dod.png
+  website: https://dod.defense.gov/
+
+- name: Department of Homeland Security
+  image: /assets/images/sponsors/dhs.png
+  website: https://www.dhs.gov/
+
+- name: Department of Justice
+  image: /assets/images/sponsors/doj.png
+  website: https://www.justice.gov/
+
+- name: ebay
+  image: /assets/images/sponsors/ebay.png
+  website: https://www.ebay.com/
+
+- name: Facebook
+  image: /assets/images/sponsors/facebook.png
+  website: https://facebook.com
+
+- name: Ford Motor Company
+  image: /assets/images/sponsors/ford.png
+  website: https://www.ford.com/
+
+- name: Google
+  image: /assets/images/sponsors/google.png
+  website: https://google.com
+
+- name: IBM
+  image: /assets/images/sponsors/ibm.png
+  website: https://www.ibm.com/
+
+- name: Intel
+  image: /assets/images/sponsors/intel.png
+  website: https://www.intel.com/content/www/us/en/homepage.html
+
+- name: J.P.Morgan
+  image: /assets/images/sponsors/jpmorgan.png
+  website: https://www.jpmorgan.com/global
+
+- name: LexisNexis
+  image: /assets/images/sponsors/lexisnexis.png
+  website: https://www.lexisnexis.com/en-us/gateway.page
+
+- name: Microsoft Azure
+  image: /assets/images/sponsors/microsoft_azure.png
+  website: https://azure.microsoft.com/en-us/
+
+- name: Microsoft Research
+  image: /assets/images/sponsors/microsoft_research.png
+  website: https://www.microsoft.com/en-us/research/
+
+- name: NASA
+  image: /assets/images/sponsors/nasa.png
+  website: https://www.nasa.gov/
+
+- name: National Institute of Health
+  image: /assets/images/sponsors/nih.png
+  website: https://www.nih.gov/
+
+- name: National Science Foundation (NSF)
+  image: /assets/images/sponsors/nsf.png
+  website: https://www.nsf.gov/
+
+- name: Nokia Corporation
+  image: /assets/images/sponsors/nokia.png
+  website: https://www.nokia.com/
+
+- name: Nvidia
+  image: /assets/images/sponsors/nvidia.png
+  website: https://www.nvidia.com/en-us/
+
+- name: Pacific Northwest National Laboratory
+  image: /assets/images/sponsors/pnnl.png
+  website: https://www.pnnl.gov/
+
+- name: Sandia National Lab
+  image: /assets/images/sponsors/sandia_labs.png
+  website: https://www.sandia.gov/
+
+- name: Siemens
+  image: /assets/images/sponsors/siemens.png
+  website: https://www.siemens.com/
+
+- name: Symantec
+  image: /assets/images/sponsors/symantec.png
+  website: https://securitycloud.symantec.com/cc/#/landing
+
+- name: The D. E. Shaw Group
+  image: /assets/images/sponsors/deshaw.png
+  website: https://www.deshaw.com/
+
+- name: Yahoo
+  image: /assets/images/sponsors/yahoo.png
+  website: https://www.yahoo.com/
