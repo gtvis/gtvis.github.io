@@ -8,18 +8,13 @@ authors:
 - Li Chen
 - Michael E. Kounavis
 - Duen Horng (Polo) Chau
-link:
+link: https://fredhohman.com/papers/shield
 tags:
-- Image Compression
-- Computing Methodologies
+- Adversarial Machine Learning
+- JPEG Compression
+- Deep Learning
 - Computer Vision
-- Machine Learning Approaches
-- Machine Learning
-- Neural Networks
-- Artificial Intelligence
-- Computer Graphics
-title: 'SHIELD: Fast, Practical Defense and Vaccination for Deep Learning using JPEG
-  Compression.'
+title: 'SHIELD: Fast, Practical Defense and Vaccination for Deep Learning using JPEG Compression.'
 venue: KDD
 year: 2018
 ---
