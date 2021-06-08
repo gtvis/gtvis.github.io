@@ -11,6 +11,6 @@ authors:
 link:
 tags: []
 title: 'CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

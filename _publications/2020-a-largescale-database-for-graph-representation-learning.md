@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: A Large-Scale Database for Graph Representation Learning.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

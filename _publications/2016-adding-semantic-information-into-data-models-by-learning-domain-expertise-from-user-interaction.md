@@ -6,6 +6,6 @@ link:
 tags: []
 title: Adding Semantic Information into Data Models by Learning Domain Expertise from
   User Interaction.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2016
 ---

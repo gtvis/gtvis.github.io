@@ -12,6 +12,6 @@ link:
 tags: []
 title: 'RECAST: Enabling User Recourse and Interpretability of Toxicity Detection
   Models with Interactive Visualization.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2021
 ---

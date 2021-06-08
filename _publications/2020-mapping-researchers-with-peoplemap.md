@@ -9,6 +9,6 @@ authors:
 link:
 tags: []
 title: Mapping Researchers with PeopleMap.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

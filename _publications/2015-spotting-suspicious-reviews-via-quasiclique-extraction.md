@@ -8,6 +8,6 @@ authors:
 link:
 tags: []
 title: Spotting Suspicious Reviews via (Quasi-)clique Extraction.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2015
 ---

@@ -7,6 +7,6 @@ link:
 tags: []
 title: 'NeuralDivergence: Exploring and Understanding Neural Networks by Comparing
   Activation Distributions.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2019
 ---

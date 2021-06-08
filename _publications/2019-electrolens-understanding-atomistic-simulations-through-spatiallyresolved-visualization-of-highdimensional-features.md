@@ -8,6 +8,6 @@ link:
 tags: []
 title: 'ElectroLens: Understanding Atomistic Simulations Through Spatially-resolved
   Visualization of High-dimensional Features.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2019
 ---

@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: Robust Physical Adversarial Attack on Faster R-CNN Object Detector.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2018
 ---

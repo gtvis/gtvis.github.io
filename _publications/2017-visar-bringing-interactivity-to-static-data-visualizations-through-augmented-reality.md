@@ -8,6 +8,6 @@ link:
 tags: []
 title: 'VisAR: Bringing Interactivity to Static Data Visualizations through Augmented
   Reality.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2017
 ---

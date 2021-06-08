@@ -6,6 +6,6 @@ authors:
 link:
 tags: []
 title: Interactive Classification for Deep Learning Interpretation.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2018
 ---

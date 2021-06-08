@@ -11,6 +11,6 @@ link:
 tags: []
 title: 'Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG
   Compression.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2017
 ---

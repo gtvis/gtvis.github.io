@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: 'Geono-Cluster: Interactive Visual Cluster Analysis for Biologists.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2019
 ---

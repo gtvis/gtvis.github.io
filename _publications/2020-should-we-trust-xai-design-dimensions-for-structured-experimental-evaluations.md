@@ -9,6 +9,6 @@ authors:
 link:
 tags: []
 title: Should We Trust (X)AI? Design Dimensions for Structured Experimental Evaluations.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

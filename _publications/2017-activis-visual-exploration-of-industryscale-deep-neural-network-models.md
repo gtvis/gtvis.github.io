@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: 'ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2017
 ---

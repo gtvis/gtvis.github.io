@@ -10,6 +10,6 @@ authors:
 link:
 tags: []
 title: 'Bluff: Interactively Deciphering Adversarial Attacks on Deep Neural Networks.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

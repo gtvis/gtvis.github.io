@@ -8,6 +8,6 @@ authors:
 link:
 tags: []
 title: Causal Perception in Question-Answering Systems.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---
