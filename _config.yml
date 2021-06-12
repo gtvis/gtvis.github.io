@@ -1,20 +1,21 @@
 # Welcome to the GT VIS Lab Website
 
 title: Georgia Tech Visualization Lab
-tagline: 
+tagline: The Home for Visualization Research at the Georgia Institute of Technology.
 email: gtvislab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the homepage of the Georgia Tech Visualization Lab.
+  Our mission is to empower everyone to analyze and communicate data with interactive systems. The team is made up of four groups that lead visualization research in Information Visualization, Human-Computer Interaction, Visual Analytics, and Geographic Information Systems.
 baseurl: "" # the subpath of your site
 url: "https://vis.gatech.edu"
 locale: en_US
 github: "https://github.com/gtvis"
 twitter:
-  card: summary
+  card: summary_large_image
   username: GT_Vis
 google_analytics: G-6V9MFRB4SQ
-logo: /assets/images/logo_bluegold.png
-author: GT_Vis
+logo: /assets/images/logo_bluegold_aspect_2_1.png
+author: 
+  twitter: GT_Vis
 
 collections:
   groups:
