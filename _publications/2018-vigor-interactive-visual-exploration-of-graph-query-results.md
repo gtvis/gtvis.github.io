@@ -8,14 +8,11 @@ authors:
 - Christopher S. Gates
 - Shamkant B. Navathe
 - Duen Horng (Polo) Chau
-link:
+link: https://fredhohman.com/papers/vigor
 tags:
-- Visualization
-- Data Visualization
-- Logic Gates
-- Computer Security
-- Database Systems
-- Data Mining
+- Visual Analytics
+- Interactive Graph Querying
+- Graph Query Summarization
 title: 'VIGOR: Interactive Visual Exploration of Graph Query Results.'
 venue: IEEE Trans. Vis. Comput. Graph.
 year: 2018
