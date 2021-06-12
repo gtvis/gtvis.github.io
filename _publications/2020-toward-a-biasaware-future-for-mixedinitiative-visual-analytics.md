@@ -6,6 +6,6 @@ authors:
 link:
 tags: []
 title: Toward a Bias-Aware Future for Mixed-Initiative Visual Analytics.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

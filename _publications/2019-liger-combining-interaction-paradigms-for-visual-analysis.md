@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: 'Liger: Combining Interaction Paradigms for Visual Analysis.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2019
 ---

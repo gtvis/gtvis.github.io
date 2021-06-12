@@ -11,6 +11,6 @@ link:
 tags: []
 title: 'SkeletonVis: Interactive Visualization for Understanding Adversarial Attacks
   on Human Action Recognition Models.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2021
 ---

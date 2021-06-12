@@ -6,6 +6,6 @@ authors:
 link:
 tags: []
 title: 'MalNet: A Large-Scale Cybersecurity Image Database of Malicious Software.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2021
 ---

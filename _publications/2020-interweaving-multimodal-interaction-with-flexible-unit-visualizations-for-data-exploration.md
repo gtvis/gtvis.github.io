@@ -7,6 +7,6 @@ link:
 tags: []
 title: Interweaving Multimodal Interaction with Flexible Unit Visualizations for Data
   Exploration.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

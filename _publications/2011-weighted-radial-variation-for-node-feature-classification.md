@@ -4,6 +4,6 @@ authors:
 link:
 tags: []
 title: Weighted Radial Variation for Node Feature Classification
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2011
 ---

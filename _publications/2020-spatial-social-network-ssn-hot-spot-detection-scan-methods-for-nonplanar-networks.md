@@ -7,6 +7,6 @@ link:
 tags: []
 title: 'Spatial Social Network (SSN) Hot Spot Detection: Scan Methods for Non-Planar
   Networks.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

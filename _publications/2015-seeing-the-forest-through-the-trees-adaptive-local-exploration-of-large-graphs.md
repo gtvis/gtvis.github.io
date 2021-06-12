@@ -11,6 +11,6 @@ authors:
 link:
 tags: []
 title: 'Seeing the Forest through the Trees: Adaptive Local Exploration of Large Graphs.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2015
 ---

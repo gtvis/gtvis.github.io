@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: 'D2M: Dynamic Defense and Modeling of Adversarial Movement in Networks.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

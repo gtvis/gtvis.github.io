@@ -15,6 +15,6 @@ authors:
 link:
 tags: []
 title: Visual Analytics for Automated Model Discovery.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2018
 ---

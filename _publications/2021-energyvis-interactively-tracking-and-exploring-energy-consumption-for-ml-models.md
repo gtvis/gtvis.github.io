@@ -11,6 +11,6 @@ link:
 tags: []
 title: 'EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML
   Models.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2021
 ---

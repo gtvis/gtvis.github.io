@@ -8,6 +8,6 @@ authors:
 link:
 tags: []
 title: Examining the Ordering of Rhetorical Strategies in Persuasive Requests.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

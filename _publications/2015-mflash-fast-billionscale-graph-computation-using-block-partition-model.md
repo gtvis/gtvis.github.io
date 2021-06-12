@@ -9,6 +9,6 @@ authors:
 link:
 tags: []
 title: 'M-Flash: Fast Billion-scale Graph Computation Using Block Partition Model.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2015
 ---

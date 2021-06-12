@@ -6,6 +6,6 @@ authors:
 link:
 tags: []
 title: 'Dodrio: Exploring Transformer Models with Interactive Visualization.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2021
 ---

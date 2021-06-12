@@ -8,6 +8,6 @@ authors:
 link:
 tags: []
 title: 'ELF: An Early-Exiting Framework for Long-Tailed Classification.'
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---

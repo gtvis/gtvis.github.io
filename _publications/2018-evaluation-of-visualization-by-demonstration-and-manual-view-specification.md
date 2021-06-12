@@ -5,6 +5,6 @@ authors:
 link:
 tags: []
 title: Evaluation of Visualization by Demonstration and Manual View Specification.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2018
 ---

@@ -12,6 +12,6 @@ authors:
 link:
 tags: []
 title: A Comparative Analysis of Industry Human-AI Interaction Guidelines.
-venue: arXiv (CoRR)
+venue: arXiv
 year: 2020
 ---
