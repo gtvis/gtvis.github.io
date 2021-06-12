@@ -1,0 +1,3 @@
+#To redirect all traffic from http://vis.gatech.edu to https://vis.gatech.edu
+RewriteCond %{HTTPS} off
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

@@ -3,8 +3,8 @@ alias: fredhohman
 degree_level: PhD
 email: fredhohman@gatech.edu
 faculty_advisor:
-- Alex Endert
 - Polo Chau
+- Alex Endert
 graduation_semester: Fall
 graduation_year: 2020
 image: /assets/images/students/fredhohman.png

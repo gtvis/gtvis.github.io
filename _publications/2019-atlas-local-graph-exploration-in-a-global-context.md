@@ -4,18 +4,12 @@ authors:
 - Fred Hohman
 - Varun Bezzam
 - Duen Horng (Polo) Chau
-link:
+link: https://fredhohman.com/papers/atlas
 tags:
-- Visualization
-- Visualization Systems And Tools
-- Visualization Techniques
-- Graph Drawings
-- Mathematics Of Computing
-- Human-centered Computing
-- Discrete Mathematics
+- Visual Graph Analytics
 - Graph Algorithms
-- Graph Theory
-title: 'Atlas: local graph exploration in a global context.'
+- Interactive Graph Decomposition
+title: 'Atlas: Local Graph Exploration in a Global Context.'
 venue: IUI
 year: 2019
 ---
