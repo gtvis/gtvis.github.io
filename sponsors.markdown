@@ -1,6 +1,6 @@
 ---
 layout: page
-image: 
+image_header: 
 intro: Our research has been made possible by support and funding from the below sources.
 title: Our Sponsors
 headtitle: Sponsors | Georgia Tech Visualization Lab

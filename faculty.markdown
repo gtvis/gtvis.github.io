@@ -1,6 +1,6 @@
 ---
 layout: page
-image: 
+image_header: 
 intro: 
 title: Our Faculty
 headtitle: Faculty | Georgia Tech Visualization Lab

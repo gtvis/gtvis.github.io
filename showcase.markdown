@@ -1,6 +1,6 @@
 ---
 layout: page
-image: 
+image_header: 
 title: Showcase
 intro: Some of our lab's creations.
 headtitle: Showcase | Georgia Tech Visualization Lab

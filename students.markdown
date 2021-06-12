@@ -1,6 +1,6 @@
 ---
 layout: page
-image: 
+image_header: 
 intro: 
 title: Our Students
 headtitle: Students | Georgia Tech Visualization Lab

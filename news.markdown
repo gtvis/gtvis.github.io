@@ -1,6 +1,6 @@
 ---
 layout: page
-image:
+image_header:
 intro: 
 title: Our News and Events
 headtitle: News and Events | Georgia Tech Visualization Lab

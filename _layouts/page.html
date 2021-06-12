@@ -8,8 +8,8 @@ layout: default
       <div class="row">
         <div class="col-lg-2 col-md-2 col-sm-3"></div>
         <div class="col-lg-8 col-md-8 col-sm-6">
-          {% if page.image contains ".png" or page.image contains ".jpg" or page.image contains ".jpeg" %}
-            <img class="w-100" alt="Picture of {{ page.image }}" src="{{ page.image | prepend: site.baseurl }}"/>
+          {% if page.image_header contains ".png" or page.image_header contains ".jpg" or page.image_header contains ".jpeg" %}
+            <img class="w-100" alt="Picture of {{ page.image_header }}" src="{{ page.image_header | prepend: site.baseurl }}"/>
           {% endif %}
         </div>
         <div class="col-lg-2 col-md-2 col-sm-3"></div>

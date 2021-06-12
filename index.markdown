@@ -1,6 +1,7 @@
 ---
 layout: page
-image: /assets/images/logo_bluegold.png
+image: /assets/images/logo_bluegold_aspect_2_1.png
+image_header: /assets/images/logo_bluegold.png
 title: # Leave it blank
 headtitle: Home | Georgia Tech Visualization Lab
 permalink: /

@@ -1,6 +1,6 @@
 ---
 layout: page
-image: 
+image_header: 
 intro: We actively publish at premier conferences and journals in Visualization, Human Computer Interaction, Geographic Information Systems, Machine Learning, and Data Mining.
 title: Our Publications
 headtitle: Publications | Georgia Tech Visualization Lab

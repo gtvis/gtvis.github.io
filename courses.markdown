@@ -1,6 +1,6 @@
 ---
 layout: page
-image: 
+image_header: 
 intro: We offer classes in Information Visualization and Visual Analytics for undergraduates as well as graduates in the Spring and Fall semesters.
 
 title: Our Courses
