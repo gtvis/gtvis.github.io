@@ -6,7 +6,7 @@ email: gtvislab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the homepage of the Georgia Tech Visualization Lab.
 baseurl: "" # the subpath of your site
-url: "http://vis.gatech.edu"
+url: "https://vis.gatech.edu"
 locale: en_US
 github: "https://github.com/gtvis"
 twitter:
