@@ -1,6 +1,6 @@
-# Adding a lab
+# Adding a group
 
-- Step 1. Create a new `*.md` in `_labs` with a unique name.
+- Step 1. Create a new `*.md` in `_groups` with a unique name.
 - Step 2. Copy the below template and fill it in. Note: Leave not applicable fields blank.
 
 ```md
