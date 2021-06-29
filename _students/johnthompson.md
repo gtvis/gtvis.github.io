@@ -1,10 +1,8 @@
 ---
 alias: johnthompson
 degree_level: PhD
-email: jrthompson@gatech.edu
+email: john.roger.thompson@gmail.com
 faculty_advisor:
-- Alex Endert
-- James Foley
 - John Stasko
 graduation_semester: Fall
 graduation_year: 2020
@@ -20,7 +18,7 @@ research_interests:
 - Graphic Design
 - Interactive Authoring Tools
 - Data Storytelling
-role: ORISE Fellow, CDC
+role: Post Doc Researcher, Microsoft Research
 twitter: https://twitter.com/jr_thomp
 website: http://jrthomp.com/
 ---
