@@ -1,5 +1,6 @@
-# Website for the Georgia Tech Visualization Lab
-Deployed at https://vis.gatech.edu
+<img src="assets/images/logo_gold.png" alt="Georgia Tech Visualization Lab" width="300"/>
+
+Website for the Georgia Tech Visualization Lab, deployed at https://vis.gatech.edu
 
 ### Setup and Run
 * Install [Jekyll and dependencies](https://jekyllrb.com/docs/).
