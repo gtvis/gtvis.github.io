@@ -1,4 +1,4 @@
-<img src="assets/images/logo_gold.png" alt="Georgia Tech Visualization Lab"/>
+<img src="assets/images/logo_bluegold.png" alt="Georgia Tech Visualization Lab"/>
 
 Website for the Georgia Tech Visualization Lab, deployed at https://vis.gatech.edu
 
