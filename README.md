@@ -19,3 +19,6 @@ Website for the Georgia Tech Visualization Lab, deployed at https://vis.gatech.e
 
 ### Note
 - Send a Pull Request with the changes and an admin will merge it.
+
+### Contact
+- gtvislab \[at\] gmail \[dot\] com
