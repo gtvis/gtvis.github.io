@@ -6,6 +6,12 @@ title: Our News and Events
 headtitle: News and Events | Georgia Tech Visualization Lab
 permalink: /news/
 ---
+<div class="banner">
+    <p>
+        If you have news items to publish, add them by following <a target="_blank" href="https://github.com/gtvis/gtvis.github.io">these instructions</a>.
+    </p>
+</div>
+<div class="vspace-md-fixed"></div>
 <div id="news" class="mob-hide row">
     <div class="col-lg-6">
         {% assign sorted-news = site.data.news | sort: '_date' | reverse %}

@@ -7,6 +7,12 @@ headtitle: Students | Georgia Tech Visualization Lab
 permalink: /students/
 ---
 <div id="students">
+    <div class="banner">
+        <p>
+            If you would like to be listed here, please get approval from your faculty advisor and add yourself by following <a target="_blank" href="https://github.com/gtvis/gtvis.github.io">these instructions</a>.
+        </p>
+    </div>
+    <div class="vspace-md-fixed"></div>
     <div class="filter">
         <div>
             <a class="active-selection" id="all">ALL</a>
@@ -113,17 +119,6 @@ permalink: /students/
         </div>
     </div>  
 </div>
-<div class="vspace-md"></div>
-<div class="row" >
-    <div class="col-lg-12">
-        <div id="banner">
-            <p>
-                If you want to be listed here, please contact any of the faculty members.
-            </p>
-        </div>
-    </div>
-</div>
-
 <script>
     $('.filter a').click(e => {
         $('.filter a').removeClass('active-selection');

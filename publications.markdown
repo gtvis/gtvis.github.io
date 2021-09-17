@@ -6,6 +6,12 @@ title: Our Publications
 headtitle: Publications | Georgia Tech Visualization Lab
 permalink: /publications/
 ---
+<div class="banner">
+    <p>
+        If you have new publications with at least one of the core faculty members as collaborators, add them by following <a target="_blank" href="https://github.com/gtvis/gtvis.github.io">these instructions</a>.
+    </p>
+</div>
+<div class="vspace-md-fixed"></div>
 <form class="form">
     <div class="row">
         <div class="col-lg-2 col-md-6 col-sm-6 mb-2">
