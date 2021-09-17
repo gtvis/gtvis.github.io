@@ -49,29 +49,6 @@
     line-height: 2em;
 }
 
-#banner {
-    padding: 16px;
-    padding-bottom: 10px;
-
-    background-color: white;
-
-    border: 2px solid #F0B310;
-    border-left: 30px solid #F0B310;
-
-    margin-top: 30px;
-
-    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
-}
-
-#banner p {
-    font-family: Nunito;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 1em;
-    line-height: 27px;
-    color: #3F3E3B;
-}
-
 @media screen and (max-width: 1000px) {
     .filter a {
         font-size: 0.8em !important;
