@@ -39,3 +39,6 @@ gem "github-pages", "~> 214", group: :jekyll_plugins
 
 # For proof-reading generating HTML
 gem "html-proofer"
+
+# needed for Windows machines
+gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
