@@ -28,10 +28,18 @@ twitter:
 ```
 
 To mark a person as an alumnus:
+
 - Add `graduation_year: YYYY`, e.g., 2020
 - Add `graduation_semester: Spring | Summer | Fall`, e.g., Fall
 - Add `role: ...` to display the alumnus' role after graduation, e.g., "Scientist, ABC"
 
+To add/update an image:
+
+- Add/update images in the [assets](/assets/images/students) directory.
+- Reference paths accordingly (e.g., */assets/images/students*).
+- Images should be square and at least `250px` by `250px`.
+- Images should have a `.PNG` file extension.
+
 Note:
-- Add images to the [assets](/assets/images/students) directory and reference their paths accordingly.
+
 - Please send a Pull Request with the changes and an admin will merge it.

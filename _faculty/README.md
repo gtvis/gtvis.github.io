@@ -21,5 +21,13 @@ keywords:
 ---
 ```
 
-- Add images to the [assets](/assets/images/faculty) directory and reference their paths accordingly.
+To add/update an image:
+
+- Add/update images in the [assets](/assets/images/faculty) directory.
+- Reference paths accordingly (e.g., */assets/images/faculty*).
+- Images should be square and at least `250px` by `250px`.
+- Images should have a `.PNG` file extension.
+
+Note:
+
 - Please send a Pull Request with the changes and an admin will merge it.

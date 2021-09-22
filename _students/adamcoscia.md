@@ -12,8 +12,9 @@ major: HCC
 name: Adam Coscia
 research_interests:
 - Visual Analytics
-- Cognitive Bias
+- Human-Computer Interaction
 - Data Augmentation
+- Cognitive Bias
 twitter: https://twitter.com/AdamCoscia
 website: https://adamcoscia.github.io/
 ---

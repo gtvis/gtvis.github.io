@@ -32,6 +32,7 @@ The research group led by <b>Clio Andris</b> within the School of City & Regiona
 ```
 
 Notes:
+
 - Limit number of projects to _two_.
 - Limit number of keywords to _three_.
 - Add images to the corresponding [assets](/assets/images/groups) directory and reference their paths accordingly.
