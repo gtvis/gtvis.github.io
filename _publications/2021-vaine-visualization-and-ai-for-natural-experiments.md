@@ -16,7 +16,7 @@ tags:
 - Machine Learning Interpretability
 - Natural Experiments
 - Causality Analysis
-title: 'A Survey of Human-Centered Evaluations in Human-Centered Machine Learning'
-venue: Computer Graphics Forum
+title: 'VAINE: Visualization and AI for Natural Experiments'
+venue: IEEE VIS (Short Papers)
 year: 2021
 ---
