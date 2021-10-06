@@ -1,3 +1,11 @@
+- title: Lab Meeting over Lunch
+  description: A refreshing lunch in the Tech Square courtyard during the Fall'21 semester.
+  image: /assets/images/gallery/gt-vis-luncheon-fall21.png
+
+- title: Remote Vis Lab Meeting
+  description: Remote lab meetings due to Covid-19.
+  image: /assets/images/gallery/gt-vis-remote-meetings.png
+
 - title: Lab
   description: The Visualization Lab in the Technology Square Research Building.
   image: /assets/images/gallery/lab.png
@@ -25,7 +33,3 @@
 - title: IEEE VIS'2017, Phoenix, AZ
   description: Annual meet-up of the Visualization Lab alumni at IEEE VIS Conference in Phoenix, AZ.
   image: /assets/images/gallery/gt-vis17.png
-
-- title: Remote Vis Lab Meeting
-  description: Remote lab meetings during virtual semesters.
-  image: /assets/images/gallery/gt-vis-remote-meetings.png
