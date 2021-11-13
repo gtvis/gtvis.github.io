@@ -1,110 +1,110 @@
 - title: We are hiring
-  _date: '2021-Nov-12'
+  _date: '2021-11-12'
   image: /assets/images/news/gt-ic.png
   short_description: Hiring new faculty in the School of Interactive Computing.
   description: 
-    We are looking to add a new visualization-focused faculty member in IC this academic year.  <A href="https://www.ic.gatech.edu/about/faculty-hiring">Job Ad</a>
+    We are looking to add a new visualization-focused faculty member in IC this academic year. <a href="https://www.ic.gatech.edu/about/faculty-hiring">Job Ad</a>
 
 - title: Arjun wins dissertation award
-  _date: '2021-Oct-26'
+  _date: '2021-10-26'
   image: /assets/images/news/arjun-award.png
   short_description: Srinivasan won the IEEE VGTC Top Visualization Dissertation Award at IEEE VIS 2021.
   description: 
     Arjun Srinivasan won the IEEE VGTC Award for the top Visualization-related PhD Dissertation of the past year for his work on <A href="https://smartech.gatech.edu/handle/1853/64091">multimodal interfaces to visualization systems</a>.
 
 - title: VIS 21 Participation
-  _date: '2021-Oct-12'
+  _date: '2021-10-12'
   image: /assets/images/news/vis21-news.png
   short_description: GT Vis Lab participates in VIS this year. Check out all contributions in this <a class="theme-text" target="_blank" href="https://public.tableau.com/app/profile/arpit.narechania/viz/GeorgiaTechIEEEVIS2021/Dashboard">interactive dashboard&nbsp;<i class="fa fa-external-link"></i></a>.
   description: 
     The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>5 papers</strong>, <strong>2 short papers</strong>, <strong>3 posters</strong>, <strong>2 keynote presentations</strong>, and <strong>1 panel discussion participation</strong>.
 
 - title: COVID-19 research awarded CDC contract
-  _date: '2021-May-14'
+  _date: '2021-05-14'
   image: /assets/images/news/cdc-riskTool.png
   short_description: Weitz, Andris and team will work with CDC on COVID-19 Risk Mapping Tool.
   description: 
     The Center for Disease Control has awarded a $300,000 contract to Georgia Tech to help study human behavior and interaction with the COVID-19 Risk Assessment Tool, a mapping tool that allows users to assess the risk associated with attending events of different sizes. The team will be working with psychology resarchers at Duke University to measure how access to information changes behavioral response to attending events in the midst of COVID-19.
 
 - title: Recent Grads
-  _date: '2021-May-08'
+  _date: '2021-05-08'
   image: /assets/images/news/grad_21_spring.png
   short_description: Recent grads at Spring '21 Commencement.
   description: 
     Congratulations to our recent PhD graduates Arjun Srinivasan, John Thompson, and Po-Ming (Terrance) Law. They are moving on to Tableau, Microsoft Research, and Epsilon, respectively.
     
 - title: New CHI papers
-  _date: '2021-May-07'
+  _date: '2021-05-07'
   image: /assets/images/news/2021_chi.png
   short_description: VIS researchers with multiple papers at CHI '21.
   description: 
     VIS Group researchers contributed three full papers at CHI '21 on topics such as animated visualizations, natural language specifications of visualizations, and causal perception in Q&A systems.
 
 - title: New EuroVis papers
-  _date: '2021-May-04'
+  _date: '2021-05-04'
   image: /assets/images/news/eurovis2021.png
   short_description: New papers and presentations at EuroVis 21.
   description: 
     The Vis Group contributed to EuroVis 2021, including serving on the Program Committee and publishing a new paper. The STAR report describes the results of a structured literature review that examines how user-centered evaluations of XAI tools can be categorized.
 
 - title: POInt Research Symposium
-  _date: '2021-April-30'
+  _date: '2021-04-30'
   image: /assets/images/news/poi-research-symposium.png
   short_description: GaTech holds first <a href="https://planning.gatech.edu/events/2021-point-symposium" target="_blank" onclick="event.stopPropagation()">Research Symposium on Points of Interest (POI) data</a>.
   description: 
     The POInt Research Symposium was a hit. It drew 50 participants from across the world in a virtual setting to discuss the future of spatial data that represents points of interest. There were 13 speakers, including four Tech graduate students. The discussion session pointed to a clear need for more data/analysis on how POI usage, and how communities can map and make good use of these data. A special issue on Social Infrastructure in the journal of <a href="https://www.springer.com/journal/43762" target="_blank" onclick="event.stopPropagation()">Computational Urban Science</a> will invite papers on this topic.
 
 - title: Haekyu Park wins JPMorgan Chase AI Research Ph.D. Fellowship
-  _date: '2021-April-22'
+  _date: '2021-04-22'
   image: /assets/images/news/haekyupark.png
   short_description: Haekyu Park, a CS PhD student, aims to create new methods that break down the black box of artificial intelligence (AI) for users.
   description: 
     Haekyu's human-centered approach increases machine learning interpretability for the financial tech sector with a newly awarded 2021 JPMorgan Chase AI Research Ph.D. Fellowship.
 
 - title: Stasko interim chair for IC
-  _date: '2021-March-01'
+  _date: '2021-03-01'
   image: /assets/images/news/john_IC_chair.png
   short_description: John was named Interim Chair for the School of Interactive Computing in March.
   description: 
     In March 2021, John became the Interim School Chair for the School of Interactive Computing in the College of Computing. John will lead IC while it undertakes the search process for a new full-time chair.
 
 - title: Clio awarded NSF CAREER award
-  _date: '2021-February-26'
+  _date: '2021-02-26'
   image: /assets/images/news/andris-nsf-career-award.png
   short_description: Andris wins NSF CAREER Award for project entitled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045271" target="_blank" onclick="event.stopPropagation()">"A Research and Educational Framework for Incorporating Spatial Heterogeneity into Social Network Analysis"</a>
   description: 
     This project will advance the quantiative study of interpersonal relationships and connectivity in geographic space, with an emphasis on best practices for spatial modeling, visualization, representation, software and exploratory spatial data analysis. We look forward to sharing our new data repository, R Code and visuals with the public so that social network researchers and mappers can learn how to combind SNs and GIS! The associated images are from Andris and colleages' paper on spatial social network analysis of mentorship ties from Big Brothers Big sisters. 
 
 - title: Recent Grads
-  _date: '2020-December-08'
+  _date: '2020-12-08'
   image: /assets/images/news/grad_20.png
   short_description: Congrats to our 2020 Graduates
   description: 
     VIS Group students Emily Wall, Bahador Saket, Fred Hohman, Hannah Kim, and Subhajit Das graduated! Congrats to them and to the next phase in their careers at Emory University, Mathworks, Apple, Megagon Labs, and 3M, respectively!
     
 - title: New VIS papers
-  _date: '2020-October-24'
+  _date: '2020-10-24'
   image: /assets/images/news/vis2020.png
   short_description: New VIS papers published at VIS 2020
   description:
     VIS Group members contributed to IEEE VIS 2020 through co-organizing workshops, serving on the organizing and program committees, and publishing new papers. 
 
 - title: Welcome to new PhD students
-  _date: '2020-August-20'
+  _date: '2020-08-20'
   image: /assets/images/news/Yu_Adam.png
   short_description: Adam Coscia and Yu Fu join the Vis Group.
   description:
     Welcome Adam Coscia and Yu Fu, who joined the Vis Group in Fall 2020! They are both pursuing their PhD in Human-Centered Computing.
 
 - title: Strong Showing at VIS ’19 in Vancouver
-  _date: '2019-October-27'
+  _date: '2019-10-27'
   image: /assets/images/news/2019_vis_group_photo.png
   short_description: The GT Visualization Group had a strong showing at the IEEE VIS 2019 Conference in Vancouver, CA.
   description: 
     GT Visualization researchers had multiple papers, posters, and organizational roles at the IEEE VIS 2019 meeting in Vancouver, Canada in October. Overall, we were part of six full papers, five short papers, three workshops, and a tutorial. Prof. Alex Endert served as Co-General Chair for the meeting, and Prof. John Stasko was inducted into the initial class of the Visualization Academy. To learn more about the specifics of their contributions, please see the press release about involvement.
 
 - title: Welcome to new PhD students
-  _date: '2019-August-27'
+  _date: '2019-08-27'
   image: /assets/images/news/2019_new_phd_students.png
   short_description: The VIS Group welcomes three new PhD students this fall.
   description:
@@ -112,14 +112,14 @@
 
 
 - title: Prof. Clio Andris joins the VIS group
-  _date: '2019-August-1'
+  _date: '2019-08-1'
   image: /assets/images/news/2019_new_faculty_clioandris.png
   short_description: Clio Andris joined the VIS group bringing her expertise in geovisualization and GIS.
   description: 
     Assistant Professor Clio Andris joined Georgia Tech this fall and holds a joint appointment between the Schools of City and Regional Planning and Interactive Computing. Dr. Andris comes to us from Penn State University where she served as Assistant Professor in the Department of Geography. She founded and directed the Friendly Cities Lab and conducts  research in the areas of spatial networks and social flow theory. She brings added expertise in the area of geovisualization to the VIS group.
 
 - title: Distinguished VIS Lecture Spring 2019
-  _date: '2019-April-22'
+  _date: '2019-04-22'
   image: /assets/images/news/distinguished_lecture_albertocairo.png
   short_description: Alberto Cairo from the University of Miami presents "How the Public Misinterprets Visualizations and what we can do about it".
   description: > 

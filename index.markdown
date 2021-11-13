@@ -88,7 +88,7 @@ permalink: /
             <br />
             <div class="row">
                 <div class="col-lg-7 short-description-container">
-                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date }}:</span>
+                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date | date: "%B %d, %Y"}}:</span>
                         {{ news.short_description }}</p>
                 </div>
                 <div class="thumbnail-container col-lg-5 ">

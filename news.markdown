@@ -27,7 +27,7 @@ permalink: /news/
             <br />
             <div class="row">
                 <div class="col-lg-7 short-description-container">
-                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date }}:</span>
+                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date | date: "%B %d, %Y" }}:</span>
                         {{ news.short_description }}</p>
                 </div>
                 <div class="col-lg-5 thumbnail-container">
@@ -59,7 +59,7 @@ permalink: /news/
             <br />
             <div class="row">
                 <div class="col-lg-7 short-description-container">
-                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date }}:</span>
+                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date | date: "%B %d, %Y" }}:</span>
                         {{ news.short_description }}</p>
                 </div>
                 <div class="col-lg-5 thumbnail-container">
@@ -92,7 +92,7 @@ permalink: /news/
             <br />
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
-                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date }}:</span>
+                    <p class="short-description collapsed"><span class="font-weight-bold">{{ news._date  | date: "%B %d, %Y" }}:</span>
                         {{ news.short_description }}</p>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12">
