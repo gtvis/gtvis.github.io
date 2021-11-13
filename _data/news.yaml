@@ -1,3 +1,10 @@
+- title: Arjun wins dissertation award
+  _date: '2021-Oct-26'
+  image: /assets/images/news/arjun-award.png
+  short_description: Srinivasan won the IEEE VGTC Top Visualization Dissertation Award at IEEE VIS 2021.
+  description: 
+    Arjun Srinivasan won the IEEE VGTC Award for the top Visualization-related PhD Dissertation of the past year for his work on <A href="https://smartech.gatech.edu/handle/1853/64091">multimodal interfaces to visualization systems</a>.
+
 - title: VIS 21 Participation
   _date: '2021-Oct-12'
   image: /assets/images/news/vis21-news.png
