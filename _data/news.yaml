@@ -1,3 +1,10 @@
+- title: Arpit wins poster award 
+  _date: '2022-02-03'
+  image: /assets/images/news/arpit_cridc2022_award.png
+  short_description: Narechania won the College of Computing Award at CRIDC Poster Competition 2022.
+  description: 
+    'Arpit Narechania represented <a href="https://vitality-vis.github.io/">Team vitaLITy</a> and won the College of Computing Award at the annual <a href="https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc">Career, Research and Innovation Development Conference (CRIDC)</a> for their poster on <a href="https://vitality-vis.github.io/vitality_cridc_poster_2022.pdf">VitaLITy Promoting Serendipitous Discovery of Academic Literature</a>.'
+
 - title: We are hiring
   _date: '2021-11-12'
   image: /assets/images/news/gt-ic.png
@@ -74,6 +81,13 @@
   short_description: Andris wins NSF CAREER Award for project entitled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045271" target="_blank" onclick="event.stopPropagation()">"A Research and Educational Framework for Incorporating Spatial Heterogeneity into Social Network Analysis"</a>
   description: 
     This project will advance the quantiative study of interpersonal relationships and connectivity in geographic space, with an emphasis on best practices for spatial modeling, visualization, representation, software and exploratory spatial data analysis. We look forward to sharing our new data repository, R Code and visuals with the public so that social network researchers and mappers can learn how to combind SNs and GIS! The associated images are from Andris and colleages' paper on spatial social network analysis of mentorship ties from Big Brothers Big sisters. 
+
+- title: Arpit wins poster award 
+  _date: '2021-02-23'
+  image: /assets/images/news/arpit_cridc2021_award.png
+  short_description: Narechania won the EVPR Award at CRIDC Poster Competition 2021.
+  description: 
+    'Arpit Narechania represented <a href="https://lumos-vis.github.io/">Team Lumos</a> and won the Executive Vice President for Research (EVPR) Award at the annual <a href="https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc">Career, Research and Innovation Development Conference (CRIDC)</a> for their poster on <a href="https://smartech.gatech.edu/handle/1853/64385">Lumos: Increasing Awareness of Biases during Visual Data Analysis</a>.'
 
 - title: Recent Grads
   _date: '2020-12-08'
