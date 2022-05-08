@@ -15,7 +15,7 @@ name: Subhajit Das
 research_interests:
 - Visual Analytics
 - Interactive Machine Learning
-role: Data Scientist, 3M
+role: Applied Scientist, Amazon
 twitter:
 website: https://subhdas.github.io/
 ---
