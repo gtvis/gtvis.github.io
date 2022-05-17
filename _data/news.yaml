@@ -1,3 +1,10 @@
+- title: Fred wins SIGCHI dissertation award
+  _date: '2022-05-02'
+  image: /assets/images/news/fred-sigchi-dissertation-award.jpeg
+  short_description: Dr. Fred Hohman won the SIGCHI Outstanding Dissertation Award at ACM CHI 2022.
+  description: 
+    Dr. Fred Hohman won the SIGCHI Outstanding Dissertation Award and <a href="https://fredhohman.com/dissertation/">gave a talk</a> at ACM CHI 2022 summarizing his dissertation and reflecting on his research on <a href="https://fredhohman.com/dissertation/">interactive interfaces for machine learning interpretability</a>.
+
 - title: Arpit wins poster award 
   _date: '2022-02-03'
   image: /assets/images/news/arpit_cridc2022_award.png
