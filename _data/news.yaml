@@ -5,6 +5,13 @@
   description: 
     Dr. Fred Hohman won the SIGCHI Outstanding Dissertation Award and <a href="https://fredhohman.com/dissertation/">gave a talk</a> at ACM CHI 2022 summarizing his dissertation and reflecting on his research on <a href="https://fredhohman.com/dissertation/">interactive interfaces for machine learning interpretability</a>.
 
+- title: Arpit wins TA award
+  _date: '2022-04-20'
+  image: /assets/images/news/arpit-ctl-ta-award.jpg
+  short_description: Narechania won the CTL Graduate Teaching Assistant of the Year Award.
+  description: 
+    Arpit Narechania won the Center for Teaching and Learning's <a href="https://ctl.gatech.edu/sites/default/files/documents/ta_awards_day_program_2022.pdf">Graduate Teaching Assistant (GTA) of the Year Award</a> in the School of Interactive Computing. Arpit was a GTA to <a href="https://va.gatech.edu/endert/">Alex Endert</a> for <a href="https://va.gatech.edu/courses/cs4460/" target="_blank">CS4460</a> during Fall 2021.
+
 - title: Arpit wins poster award 
   _date: '2022-02-03'
   image: /assets/images/news/arpit_cridc2022_award.png
