@@ -14,5 +14,5 @@ link:
 tags:
 - Visual Data Analysis
 title: 'Supporting the Contact Tracing Process with Wifi Location Data: Opportunities and Challenges'
-venue: CHI 2022
+venue: CHI
 year: 2022
