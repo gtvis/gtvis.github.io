@@ -1,0 +1,31 @@
+/* Groups */
+#groups .card {
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+
+#groups .card p {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    font-size: 1em;
+    color: #3F3E3B;
+}
+
+#groups .card p b {
+    font-weight: bold;
+}
+
+#groups .tags {
+    margin-top: 8px;
+}
+
+#groups .sc-links {
+    margin-left: 16px;
+}
+
+@media screen and (max-width: 1000px) {
+    #groups .group-description {
+        line-height: 2em;
+    }
+}
