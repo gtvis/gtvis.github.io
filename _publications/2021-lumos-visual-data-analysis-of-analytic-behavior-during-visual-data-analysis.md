@@ -13,5 +13,5 @@ tags:
 - Human Bias
 title: 'Lumos: Increasing Awareness of Analytic Behavior during Visual Data Analysis'
 venue: IEEE Trans. Vis. Comput. Graph.
-year: 2022
+year: 2021
 ---

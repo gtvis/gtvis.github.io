@@ -13,5 +13,5 @@ tags:
 - Visual Data Analysis
 title: 'Left, Right, and Gender: Exploring Interaction Traces to Mitigate Human Biases'
 venue: IEEE Trans. Vis. Comput. Graph.
-year: 2022
+year: 2021
 ---
