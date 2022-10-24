@@ -18,5 +18,5 @@ research_interests:
 - information visualization
 - human computer interaction
 twitter: https://twitter.com/arpitnarechania
-website: https://www.cc.gatech.edu/~anarechania3
+website: http://arpit.narechania.com
 ---

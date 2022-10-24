@@ -19,7 +19,7 @@ name: Terrance Law
 research_interests:
 - HCI
 - Data Visualization
-role: Visualization Scientist, Epsilon
+role: Software Engineer, Google
 twitter: https://twitter.com/terrancepmlaw
 website: https://terrancelaw.github.io
 ---
