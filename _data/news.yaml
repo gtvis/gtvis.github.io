@@ -1,9 +1,37 @@
+- title: John named an ACM Fellow
+  _date: '2023-02-02'
+  image: /assets/images/news/stasko23.jpg
+  short_description: John Stasko was named to the class of <a href="https://www.cc.gatech.edu/news/regents-professor-named-acm-fellow" target="_blank">2022 ACM Fellows</a> for his "contributions to the design, analysis, usage, and evaluation of software and information visualization."
+  description: 
+    This joins his 2014 IEEE Fellow recognition to complete the double of top recognitions for computer scientists.
+
+- title: Jim enshrined on the Vis Lab Wall of Fame
+  _date: '2023-02-01'
+  image: /assets/images/news/jim23.jpg
+  short_description: Our Emeritus Prof. Jim Foley's AAAS, ACM, and IEEE Fellow awards now reside in our new Wall of Fame in the Vis Lab.
+  description: 
+    Jim is now retired but often still drops in on our weekly group meeting. Keep inspiring us, Jim!
+
+- title: Arpit and Adam win Poster awards
+  _date: '2023-02-01'
+  image: /assets/images/news/arpit_adam_cridc2023_awards.jpg
+  short_description: Arpit Narechania won the Executive Vice Provost for Research Award and Adam Coscia won the College of Computing Award at the <a href="https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc">CRIDC'23</a>.
+  description: 
+    Narechania presented different ways to bin data on a map; Coscia presented their work on visualizing what large language models have learnt. Both won travel grants!
+
+- title: VIS 22 Participation
+  _date: '2022-10-19'
+  image: /assets/images/news/gt-vis22.png
+  short_description: GT Vis Lab participates in VIS this year. Check out <a class="theme-text" target="_blank" href="https://twitter.com/GT_Vis/status/1581404441520898048">all our contributions here&nbsp;<i class="fa fa-external-link"></i></a>.
+  description: 
+    The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>2 papers</strong>, <strong>4 short papers</strong>, and <strong>4 posters</strong>.
+
 - title: New release of NL4DV
   _date: '2022-10-19'
   image: /assets/images/news/nl4dv.jpeg
   short_description: New update of NL4DV toolkit released.
   description: 
-    We have provided a new release of the <a href="https://nl4dv.github.io/nl4dv/">NL4DV toolkit</a> that helps people add natural language cpabilities to their visualization applications. This release supports follow-up queries.
+    We have provided a new release of the <a target="_blank" href="https://nl4dv.github.io/nl4dv/">NL4DV toolkit</a> that helps people add natural language cpabilities to their visualization applications. This release supports follow-up queries.
 
 - title: Fred wins SIGCHI dissertation award
   _date: '2022-05-02'
