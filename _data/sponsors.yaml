@@ -54,6 +54,10 @@
   image: /assets/images/sponsors/google.png
   website: https://google.com
 
+- name: GVU Center
+  image: /assets/images/sponsors/gvu.jpeg
+  website: https://gvu.gatech.edu/
+
 - name: IBM
   image: /assets/images/sponsors/ibm.png
   website: https://www.ibm.com/
