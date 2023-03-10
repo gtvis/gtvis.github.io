@@ -1,163 +1,170 @@
+- title: Jay recieved an Apple Scholors Fellowship
+  _date: '2023-03-03'
+  image: /assets/images/news/jay-wang-apple-scholor.jpg
+  short_description: Jay Wang was named as an Apple Scholar, among only 22 awardees of the <a href='https://machinelearning.apple.com/updates/apple-scholars-aiml-2023' target='_blank'>2023 Apple Scholars in AI/ML PhD Fellowship</a> worldwide!
+  description:
+    The Apple Scholars in AI/ML PhD Fellowship aims to support and amplify emerging leaders in their field and their cutting-edge machine learning research.
+
 - title: John named an ACM Fellow
   _date: '2023-02-02'
   image: /assets/images/news/stasko23.jpg
   short_description: John Stasko was named to the class of <a href="https://www.cc.gatech.edu/news/regents-professor-named-acm-fellow" target="_blank">2022 ACM Fellows</a> for his "contributions to the design, analysis, usage, and evaluation of software and information visualization."
-  description: 
+  description:
     This joins his 2014 IEEE Fellow recognition to complete the double of top recognitions for computer scientists.
 
 - title: Jim enshrined on the Vis Lab Wall of Fame
   _date: '2023-02-01'
   image: /assets/images/news/jim23.jpg
   short_description: Our Emeritus Prof. Jim Foley's AAAS, ACM, and IEEE Fellow awards now reside in our new Wall of Fame in the Vis Lab.
-  description: 
+  description:
     Jim is now retired but often still drops in on our weekly group meeting. Keep inspiring us, Jim!
 
 - title: Arpit and Adam win Poster awards
   _date: '2023-02-01'
   image: /assets/images/news/arpit_adam_cridc2023_awards.jpg
   short_description: Arpit Narechania won the Executive Vice Provost for Research Award and Adam Coscia won the College of Computing Award at the <a href="https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc">CRIDC'23</a>.
-  description: 
+  description:
     Narechania presented different ways to bin data on a map; Coscia presented their work on visualizing what large language models have learnt. Both won travel grants!
 
 - title: Big showing at the GVU Research Showcase
   _date: '2022-11-02'
   image: /assets/images/news/gvu-30th-anniversary.jpeg
   short_description: Our students presented multiple research projects at the GVU Research Showcase.
-  description: 
+  description:
     Arpit Narechania, Grace Guo, Adam Coscia, Yu Fu, Rishivanth Thulasiraman, Alex Bendeck, and Ting Yu presented their work across basketball analytics, bias mitigation, causal inference, stock trading, large language models, literature reviews, map making, and UX design at the 2022 Fall Research Showcase as part of the <a href="https://gvu.gatech.edu/gvu-30">30th anniversary celebrations of the GVU Center</a>. Check out a virtual tour through these projects <a href="https://twitter.com/GT_Vis/status/1588237174708707328" target="_blank">here</a>.
 
 - title: VIS 22 Participation
   _date: '2022-10-19'
   image: /assets/images/news/gt-vis22.png
   short_description: GT Vis Lab participates in VIS this year. Check out <a class="theme-text" target="_blank" href="https://twitter.com/GT_Vis/status/1581404441520898048">all our contributions here&nbsp;<i class="fa fa-external-link"></i></a>.
-  description: 
+  description:
     The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>2 papers</strong>, <strong>4 short papers</strong>, and <strong>4 posters</strong>.
 
 - title: New release of NL4DV
   _date: '2022-10-19'
   image: /assets/images/news/nl4dv.jpeg
   short_description: New update of NL4DV toolkit released.
-  description: 
+  description:
     We have provided a new release of the <a target="_blank" href="https://nl4dv.github.io/nl4dv/">NL4DV toolkit</a> that helps people add natural language cpabilities to their visualization applications. This release supports follow-up queries.
 
 - title: Fred wins SIGCHI dissertation award
   _date: '2022-05-02'
   image: /assets/images/news/fred-sigchi-dissertation-award.jpeg
   short_description: Dr. Fred Hohman won the SIGCHI Outstanding Dissertation Award at ACM CHI 2022.
-  description: 
+  description:
     Dr. Fred Hohman won the SIGCHI Outstanding Dissertation Award and <a href="https://fredhohman.com/dissertation/">gave a talk</a> at ACM CHI 2022 summarizing his dissertation and reflecting on his research on <a href="https://fredhohman.com/dissertation/">interactive interfaces for machine learning interpretability</a>.
 
 - title: Arpit wins TA award
   _date: '2022-04-20'
   image: /assets/images/news/arpit-ctl-ta-award.jpg
   short_description: Narechania won the CTL Graduate Teaching Assistant of the Year Award.
-  description: 
+  description:
     Arpit Narechania won the Center for Teaching and Learning's <a href="https://ctl.gatech.edu/sites/default/files/documents/ta_awards_day_program_2022.pdf">Graduate Teaching Assistant (GTA) of the Year Award</a> in the School of Interactive Computing. Arpit was a GTA to <a href="https://va.gatech.edu/endert/">Alex Endert</a> for <a href="https://va.gatech.edu/courses/cs4460/" target="_blank">CS4460</a> during Fall 2021.
 
-- title: Arpit wins poster award 
+- title: Arpit wins poster award
   _date: '2022-02-03'
   image: /assets/images/news/arpit_cridc2022_award.png
   short_description: Narechania won the College of Computing Award at CRIDC Poster Competition 2022.
-  description: 
+  description:
     'Arpit Narechania represented <a href="https://vitality-vis.github.io/">Team vitaLITy</a> and won the College of Computing Award at the annual <a href="https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc">Career, Research and Innovation Development Conference (CRIDC)</a> for their poster on <a href="https://vitality-vis.github.io/vitality_cridc_poster_2022.pdf">VitaLITy Promoting Serendipitous Discovery of Academic Literature</a>.'
 
 - title: We are hiring
   _date: '2021-11-12'
   image: /assets/images/news/gt-ic.png
   short_description: Hiring new faculty in the School of Interactive Computing.
-  description: 
+  description:
     We are looking to add a new visualization-focused faculty member in IC this academic year. <a href="https://www.ic.gatech.edu/about/faculty-hiring">Job Ad</a>
 
 - title: Arjun wins dissertation award
   _date: '2021-10-26'
   image: /assets/images/news/arjun-vgtc-award.png
   short_description: Srinivasan won the IEEE VGTC Top Visualization Dissertation Award at IEEE VIS 2021.
-  description: 
+  description:
     Arjun Srinivasan won the IEEE VGTC Award for the top Visualization-related PhD Dissertation of the past year for his work on <A href="https://smartech.gatech.edu/handle/1853/64091">multimodal interfaces to visualization systems</a>.
 
 - title: VIS 21 Participation
   _date: '2021-10-12'
   image: /assets/images/news/vis21-news.png
   short_description: GT Vis Lab participates in VIS this year. Check out all contributions in this <a class="theme-text" target="_blank" href="https://public.tableau.com/app/profile/arpit.narechania/viz/GeorgiaTechIEEEVIS2021/Dashboard">interactive dashboard&nbsp;<i class="fa fa-external-link"></i></a>.
-  description: 
+  description:
     The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>5 papers</strong>, <strong>2 short papers</strong>, <strong>3 posters</strong>, <strong>2 keynote presentations</strong>, and <strong>1 panel discussion participation</strong>.
 
 - title: COVID-19 research awarded CDC contract
   _date: '2021-05-14'
   image: /assets/images/news/cdc-riskTool.png
   short_description: Weitz, Andris and team will work with CDC on COVID-19 Risk Mapping Tool.
-  description: 
+  description:
     The Center for Disease Control has awarded a $300,000 contract to Georgia Tech to help study human behavior and interaction with the COVID-19 Risk Assessment Tool, a mapping tool that allows users to assess the risk associated with attending events of different sizes. The team will be working with psychology resarchers at Duke University to measure how access to information changes behavioral response to attending events in the midst of COVID-19.
 
 - title: Recent Grads
   _date: '2021-05-08'
   image: /assets/images/news/grad_21_spring.png
   short_description: Recent grads at Spring '21 Commencement.
-  description: 
+  description:
     Congratulations to our recent PhD graduates Arjun Srinivasan, John Thompson, and Po-Ming (Terrance) Law. They are moving on to Tableau, Microsoft Research, and Epsilon, respectively.
-    
+
 - title: New CHI papers
   _date: '2021-05-07'
   image: /assets/images/news/2021_chi.png
   short_description: VIS researchers with multiple papers at CHI '21.
-  description: 
+  description:
     VIS Group researchers contributed three full papers at CHI '21 on topics such as animated visualizations, natural language specifications of visualizations, and causal perception in Q&A systems.
 
 - title: New EuroVis papers
   _date: '2021-05-04'
   image: /assets/images/news/eurovis2021.png
   short_description: New papers and presentations at EuroVis 21.
-  description: 
+  description:
     The Vis Group contributed to EuroVis 2021, including serving on the Program Committee and publishing a new paper. The STAR report describes the results of a structured literature review that examines how user-centered evaluations of XAI tools can be categorized.
 
 - title: POInt Research Symposium
   _date: '2021-04-30'
   image: /assets/images/news/poi-research-symposium.png
   short_description: GaTech holds first <a href="https://planning.gatech.edu/events/2021-point-symposium" target="_blank" onclick="event.stopPropagation()">Research Symposium on Points of Interest (POI) data</a>.
-  description: 
+  description:
     The POInt Research Symposium was a hit. It drew 50 participants from across the world in a virtual setting to discuss the future of spatial data that represents points of interest. There were 13 speakers, including four Tech graduate students. The discussion session pointed to a clear need for more data/analysis on how POI usage, and how communities can map and make good use of these data. A special issue on Social Infrastructure in the journal of <a href="https://www.springer.com/journal/43762" target="_blank" onclick="event.stopPropagation()">Computational Urban Science</a> will invite papers on this topic.
 
 - title: Haekyu Park wins JPMorgan Chase AI Research Ph.D. Fellowship
   _date: '2021-04-22'
   image: /assets/images/news/haekyupark.png
   short_description: Haekyu Park, a CS PhD student, aims to create new methods that break down the black box of artificial intelligence (AI) for users.
-  description: 
+  description:
     Haekyu's human-centered approach increases machine learning interpretability for the financial tech sector with a newly awarded 2021 JPMorgan Chase AI Research Ph.D. Fellowship.
 
 - title: Stasko interim chair for IC
   _date: '2021-03-01'
   image: /assets/images/news/john_IC_chair.png
   short_description: John was named Interim Chair for the School of Interactive Computing in March.
-  description: 
+  description:
     In March 2021, John became the Interim School Chair for the School of Interactive Computing in the College of Computing. John will lead IC while it undertakes the search process for a new full-time chair.
 
 - title: Clio awarded NSF CAREER award
   _date: '2021-02-26'
   image: /assets/images/news/andris-nsf-career-award.png
   short_description: Andris wins NSF CAREER Award for project entitled <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045271" target="_blank" onclick="event.stopPropagation()">"A Research and Educational Framework for Incorporating Spatial Heterogeneity into Social Network Analysis"</a>
-  description: 
-    This project will advance the quantiative study of interpersonal relationships and connectivity in geographic space, with an emphasis on best practices for spatial modeling, visualization, representation, software and exploratory spatial data analysis. We look forward to sharing our new data repository, R Code and visuals with the public so that social network researchers and mappers can learn how to combind SNs and GIS! The associated images are from Andris and colleages' paper on spatial social network analysis of mentorship ties from Big Brothers Big sisters. 
+  description:
+    This project will advance the quantiative study of interpersonal relationships and connectivity in geographic space, with an emphasis on best practices for spatial modeling, visualization, representation, software and exploratory spatial data analysis. We look forward to sharing our new data repository, R Code and visuals with the public so that social network researchers and mappers can learn how to combind SNs and GIS! The associated images are from Andris and colleages' paper on spatial social network analysis of mentorship ties from Big Brothers Big sisters.
 
-- title: Arpit wins poster award 
+- title: Arpit wins poster award
   _date: '2021-02-23'
   image: /assets/images/news/arpit_cridc2021_award.png
   short_description: Narechania won the EVPR Award at CRIDC Poster Competition 2021.
-  description: 
+  description:
     'Arpit Narechania represented <a href="https://lumos-vis.github.io/">Team Lumos</a> and won the Executive Vice President for Research (EVPR) Award at the annual <a href="https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc">Career, Research and Innovation Development Conference (CRIDC)</a> for their poster on <a href="https://smartech.gatech.edu/handle/1853/64385">Lumos: Increasing Awareness of Biases during Visual Data Analysis</a>.'
 
 - title: Recent Grads
   _date: '2020-12-08'
   image: /assets/images/news/grad_20.png
   short_description: Congrats to our 2020 Graduates
-  description: 
+  description:
     VIS Group students Emily Wall, Bahador Saket, Fred Hohman, Hannah Kim, and Subhajit Das graduated! Congrats to them and to the next phase in their careers at Emory University, Mathworks, Apple, Megagon Labs, and 3M, respectively!
-    
+
 - title: New VIS papers
   _date: '2020-10-24'
   image: /assets/images/news/vis2020.png
   short_description: New VIS papers published at VIS 2020
   description:
-    VIS Group members contributed to IEEE VIS 2020 through co-organizing workshops, serving on the organizing and program committees, and publishing new papers. 
+    VIS Group members contributed to IEEE VIS 2020 through co-organizing workshops, serving on the organizing and program committees, and publishing new papers.
 
 - title: Welcome to new PhD students
   _date: '2020-08-20'
@@ -170,7 +177,7 @@
   _date: '2019-10-27'
   image: /assets/images/news/2019_vis_group_photo.png
   short_description: The GT Visualization Group had a strong showing at the IEEE VIS 2019 Conference in Vancouver, CA.
-  description: 
+  description:
     GT Visualization researchers had multiple papers, posters, and organizational roles at the IEEE VIS 2019 meeting in Vancouver, Canada in October. Overall, we were part of six full papers, five short papers, three workshops, and a tutorial. Prof. Alex Endert served as Co-General Chair for the meeting, and Prof. John Stasko was inducted into the initial class of the Visualization Academy. To learn more about the specifics of their contributions, please see the press release about involvement.
 
 - title: Welcome to new PhD students
@@ -185,14 +192,14 @@
   _date: '2019-08-1'
   image: /assets/images/news/2019_new_faculty_clioandris.png
   short_description: Clio Andris joined the VIS group bringing her expertise in geovisualization and GIS.
-  description: 
+  description:
     Assistant Professor Clio Andris joined Georgia Tech this fall and holds a joint appointment between the Schools of City and Regional Planning and Interactive Computing. Dr. Andris comes to us from Penn State University where she served as Assistant Professor in the Department of Geography. She founded and directed the Friendly Cities Lab and conducts  research in the areas of spatial networks and social flow theory. She brings added expertise in the area of geovisualization to the VIS group.
 
 - title: Distinguished VIS Lecture Spring 2019
   _date: '2019-04-22'
   image: /assets/images/news/distinguished_lecture_albertocairo.png
   short_description: Alberto Cairo from the University of Miami presents "How the Public Misinterprets Visualizations and what we can do about it".
-  description: > 
-    In April, Alberto Cairo from the University of Miami visited and talked about his work. Alberto discussed how people often misinterpret visualizations, and what we can do to help this and to create better visualizations in general. Alberto spent the day with us in the GT Vis Lab, and also was the external member of John Thompson’s PhD thesis proposal committee. 
-    
+  description: >
+    In April, Alberto Cairo from the University of Miami visited and talked about his work. Alberto discussed how people often misinterpret visualizations, and what we can do to help this and to create better visualizations in general. Alberto spent the day with us in the GT Vis Lab, and also was the external member of John Thompson’s PhD thesis proposal committee.
+
     For more details about his talk, see the <a href="https://www.cc.gatech.edu/calendar/day/2019/04/22/15080" target="_blank">news release about it</a>.
