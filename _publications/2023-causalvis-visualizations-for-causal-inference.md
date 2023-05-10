@@ -8,7 +8,7 @@ link:
 tags:
 - Causal Inference
 - Causality Analysis
-- JupyterLab
+- Computational Notebooks
 - Human-Centered Computing
 - Visual Analytics
 - Visual Analytic Tools
