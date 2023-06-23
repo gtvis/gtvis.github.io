@@ -66,7 +66,7 @@
   image: /assets/images/news/nl4dv.jpeg
   short_description: New update of NL4DV toolkit released.
   description:
-    We have provided a new release of the <a target="_blank" href="https://nl4dv.github.io/nl4dv/">NL4DV toolkit</a> that helps people add natural language cpabilities to their visualization applications. This release supports follow-up queries.
+    We have provided a new release of the <a target="_blank" href="https://nl4dv.github.io/nl4dv/">NL4DV toolkit</a> that helps people add natural language capabilities to their visualization applications. This release supports follow-up queries.
 
 - title: Fred wins SIGCHI dissertation award
   _date: '2022-05-02'
