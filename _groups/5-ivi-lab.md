@@ -5,7 +5,7 @@ professors:
     - Yalong Yang
 logo: /assets/images/groups/ivilab/logo.png
 spotlight_image: /assets/images/groups/ivilab/spotlight.jpg
-website: https://vis.yalongyang.com/
+website: https://ivi.cc.gatech.edu/
 keywords:
     - VR/AR
     - embodied interaction
