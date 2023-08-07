@@ -36,8 +36,9 @@ permalink: /
   </div>
   <div class="vspace-lg"></div>
   <div class="row">
-    {% for group in site.groups %}
-      <div class="col-lg-3 col-md-12 col-sm-12">
+    {% assign sorted-groups = site.groups | sort: '_date' | reverse %}
+    {% for group in sorted-groups %}
+      <div class="col-lg-4 col-md-12 col-sm-12">
         <div class="card">
         <a target="_blank" href="{{ group.website }}">
           <div class="card-img-top">

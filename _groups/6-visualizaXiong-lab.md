@@ -4,6 +4,7 @@ headline: We leverage principles of human perception and cognitions to design be
 professors: 
     - Cindy Xiong Bearfield
 logo: /assets/images/groups/visualizaXiong/logo.png
+_date: '2024-01-01'
 spotlight_image: /assets/images/groups/visualizaXiong/spotlight.jpg
 website: https://cyxiong.com/visualizaxiong-lab/
 keywords:

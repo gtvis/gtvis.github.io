@@ -4,6 +4,7 @@ headline: We develop usable and powerful interactive visual analytic tools that 
 professors: 
     - Alex Endert
 logo: /assets/images/groups/valab/logo.png
+_date: '2014-08-01'
 spotlight_image: /assets/images/groups/valab/spotlight.png
 website: https://gtvalab.github.io/
 github: https://github.com/gtvalab

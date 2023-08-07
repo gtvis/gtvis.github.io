@@ -11,6 +11,7 @@ professors:
     - Clio Andris
     - ...
 logo: /assets/images/groups/fclab/logo.png
+_date: '2023-08-01'
 spotlight_image: /assets/images/groups/fclab/spotlight.png
 website: http://friendlycities.gatech.edu/
 github: https://github.com/friendlycities-gatech

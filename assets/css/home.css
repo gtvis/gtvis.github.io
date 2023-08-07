@@ -21,6 +21,7 @@
     min-height: 410px;
     box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
     transition: all 0.1s ease;
+    margin-bottom: 24px;
 }
 
 #home a:hover {

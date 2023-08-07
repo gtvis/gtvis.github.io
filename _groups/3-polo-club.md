@@ -4,6 +4,7 @@ headline: We build interactive scalable tools to amplify humans' ability to unde
 professors: 
     - Polo Chau
 logo: /assets/images/groups/poloclub/logo.png
+_date: '2012-08-01'
 spotlight_image: /assets/images/groups/poloclub/spotlight.png
 website: https://poloclub.github.io/
 github: https://github.com/poloclub

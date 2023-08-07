@@ -7,7 +7,8 @@ headtitle: Groups | Georgia Tech Visualization Lab
 permalink: /groups/
 ---
 <div id="groups">
-    {% for group in site.groups %}
+    {% assign sorted-groups = site.groups | sort: '_date' | reverse %}
+    {% for group in sorted-groups %}
     {% assign remainder = forloop.index | modulo: 2 %}
     <div class="row">
         {%  if remainder ==  0 %}

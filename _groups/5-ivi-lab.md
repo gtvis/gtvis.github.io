@@ -4,6 +4,7 @@ headline: We design and evaluate interactive systems in VR/AR for productivity.
 professors: 
     - Yalong Yang
 logo: /assets/images/groups/ivilab/logo.png
+_date: '2023-08-01'
 spotlight_image: /assets/images/groups/ivilab/spotlight.jpg
 website: https://ivi.cc.gatech.edu/
 keywords:

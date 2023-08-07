@@ -4,6 +4,7 @@ headline: We help people understand data via innovative interfaces in informatio
 professors: 
     - John Stasko
 logo: /assets/images/groups/iigroup/logo.png
+_date: '1989-08-01'
 spotlight_image: /assets/images/groups/iigroup/spotlight.png
 website: https://www.cc.gatech.edu/gvu/ii/
 keywords: 
