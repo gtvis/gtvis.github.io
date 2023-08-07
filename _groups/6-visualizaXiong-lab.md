@@ -14,7 +14,7 @@ projects:
     - title: "Comparison Conundrum and the Chamber of Visualizations: An Exploration of How Language Influences Visual Design"
       link: https://arxiv.org/pdf/2208.03785.pdf
       teaser: /assets/images/groups/visualizaXiong/featured-projects/NLVis.png
-    -  title: "Seeing What You Believe or Believing What You See? Belief Biases Correlation Estimation"
+    - title: "Seeing What You Believe or Believing What You See? Belief Biases Correlation Estimation"
       link: https://arxiv.org/pdf/2208.04436.pdf
       teaser: /assets/images/groups/visualizaXiong/featured-projects/motivated-scatterplot.png
 ---
