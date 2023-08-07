@@ -24,6 +24,11 @@
     margin-left: 16px;
 }
 
+#groups .img-banner {
+    max-width: 100%;
+    max-height: 150px;
+}
+
 @media screen and (max-width: 1000px) {
     #groups .group-description {
         line-height: 2em;

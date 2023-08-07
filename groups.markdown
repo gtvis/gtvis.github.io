@@ -18,7 +18,7 @@ permalink: /groups/
                 <div class="card-body">
                     <div class="row">
                         <div class="col-lg-12">
-                            <img alt="Picture of {{ group.name }}" class="img-center" src="{{ group.logo | prepend: site.baseurl }}"/>
+                            <img alt="Picture of {{ group.name }}" class="img-center img-banner" src="{{ group.logo | prepend: site.baseurl }}"/>
                         </div>
                     </div>
                     <div class="row">
