@@ -8,7 +8,7 @@ permalink: /faculty/
 ---
 <div id="faculty" class="row">
     {% assign core-faculty = site.faculty | where_exp:"faculty",
-    "faculty.type == 'core'" %}
+    "faculty.type == 'core'" | sort: 'name' %}
     {% for person in core-faculty %}
     <div class="col-lg-6 col-md-6 col-sm-6 large-card-container">
         <div class="large-card">
@@ -56,7 +56,7 @@ permalink: /faculty/
 </div>
 <div id="affiliated-faculty" class="row">
     {% assign aff-faculty = site.faculty | where_exp:"faculty",
-    "faculty.type == 'affiliate'" %}
+    "faculty.type == 'affiliate'" | sort: 'name' %}
     {% for person in aff-faculty %}
     <div class="col-lg-4 col-md-6 col-sm-6 medium-card-container">
         <div class="medium-card">
