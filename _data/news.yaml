@@ -2,7 +2,15 @@
   _date: '2023-08-11'
   image: /assets/images/news/2023-cindy-umbrella.jpg
   short_description: <a href="https://cyxiong.com/" target="_blank">Cindy Xiong Bearfield</a> joined the VIS group bringing her expertise in perception, cognition, and visualization.
-  description: Assistant Professor Cindy Xiong Bearfield is joining the School of Interactive Computing at Georgia Tech. She received her Ph.D. in Cognitive Psychology and her MS in Statistics from Northwestern University. Her research at the intersection of human perception, cognition, and data visualization has been recognized with an NSF CAREER award and has received awards at premier venues in psychology and data visualization, including Psychonomics, ACM CHI, and IEEE VIS. She is also one of the founding leaders of  <a href="https://visxvision.com" target="_blank">VISxVISION</a>, an initiative dedicated to increasing collaboration between visualization researchers and perceptual + cognitive psychologists.
+  description: 
+    Assistant Professor Cindy Xiong Bearfield is joining the School of Interactive Computing at Georgia Tech. She received her Ph.D. in Cognitive Psychology and her MS in Statistics from Northwestern University. Her research at the intersection of human perception, cognition, and data visualization has been recognized with an NSF CAREER award and has received awards at premier venues in psychology and data visualization, including Psychonomics, ACM CHI, and IEEE VIS. She is also one of the founding leaders of  <a href="https://visxvision.com" target="_blank">VISxVISION</a>, an initiative dedicated to increasing collaboration between visualization researchers and perceptual + cognitive psychologists.
+
+- title: Prof. Yalong Yang joins the VIS group
+  _date: '2023-08-01'
+  image: /assets/images/news/2023-yalong-joining.jpeg
+  short_description: <a href="https://ivi.cc.gatech.edu/people.html" target="_blank">Yalong Yang</a> joined the VIS group bringing his expertise in virtual and augmented reality (VR/AR).
+  description:
+    Assitant Professor Yalong Yang joined the School of Interactive Computing at Georgia Tech this fall. He directs the <a href="https://ivi.cc.gatech.edu/" target="_blank">Immersive Visualization & Interaction Lab (IVI Lab)</a> focusing on building interactive systems in VR/AR for productivity. Yalong came to us from Virginia Tech, where he served as an Assitant Professor in the Department of Computer Science. He also spent two years as a Postdoctoral Fellow at Harvard University after obtaining his Ph.D. from Monash University, Australia. He brings added expertise in the area of VR/AR to the VIS group.
 
 - title: Arpit receives Teaching Fellowship
   _date: '2023-06-21'
