@@ -1,6 +1,6 @@
 ---
 name: Visual Analytics Lab
-headline: We develop interactive visual analytic tools that help people make sense of data.
+headline: We develop usable and powerful interactive visual analytic tools that help people make sense of data.
 professors: 
     - Alex Endert
 logo: /assets/images/groups/valab/logo.png
@@ -19,4 +19,4 @@ projects:
       link: https://gtvalab.github.io/projects/vabydemo.html
       teaser: /assets/images/groups/valab/featured-projects/vbd-diagram.png
 ---
-We design, develop, and study interactive visual analytic applications that help people make sense of data. We approach this challenge through combining scientific techniques from information visualization, machine learning, data mining, and human-computer interaction to produce usable, yet powerful visual analytic applications.
+At the Visual Analytics Lab, led by <b>Alex Endert</b>, we research and develop interactive visual analytics applications that help people make sense of data. We approach this challenge through combining scientific techniques from information visualization, machine learning, data mining, and human-computer interaction to produce usable and powerful visual analytics applications.
