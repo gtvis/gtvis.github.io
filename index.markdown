@@ -14,7 +14,7 @@ permalink: /
         <span id="welcome">Welcome!</span> We are the home for visualization research at the Georgia Institute of Technology. Our mission is to empower everyone to analyze and communicate data with interactive systems.
       </p>
       <p>
-        The team is made up of four groups that lead visualization research in <b>Information Visualization, Human-Computer Interaction, Visual Analytics,</b> and <b>Geographic Information Systems</b>.
+        The team is made up of six groups that lead visualization research in <b>Information Visualization</b>, <b>Visual Analytics</b>, <b>Geographic Information Systems</b>, <b>Visual Perception</b>, <b>Immersive Visualization</b>, and <b>Visual Data Science</b>.
       </p>
       <p>
       <div id="scroll-text"><i class="fa fa-arrow-down"></i>&nbsp;&nbsp;Scroll to see more!&nbsp;&nbsp;<i class="fa fa-arrow-down"></i></div>
