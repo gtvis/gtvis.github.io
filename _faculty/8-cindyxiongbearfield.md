@@ -1,7 +1,7 @@
 ---
 name: Cindy Xiong Bearfield
 lab: VisualizaXiong Lab
-image: /assets/images/faculty/yalongyang.jpg
+image: /assets/images/faculty/CindyXiongBearfield.png
 website: https://cyxiong.com/
 email: cxiong@u.northwestern.edu
 twitter: https://twitter.com/thecindyxiong
