@@ -24,10 +24,12 @@ permalink: /
     <div class="col-lg-7">
       <div class="carousel">
        {% for item in site.data.gallery %}
+          {% if item.discontinued == false %}
           <div>
           <img class="w-100" alt="Picture of {{ item.image }}" src="{{ item.image | prepend: site.baseurl }}" />
           <p>{{ item.description }}</p>
           </div>
+          {% endif %}
         {% endfor %}
       </div>
     </div>
