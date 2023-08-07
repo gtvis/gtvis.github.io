@@ -4,6 +4,8 @@ degree_level: MS
 email: alexanderyang@gatech.edu
 faculty_advisor:
 - Polo Chau
+graduation_semester: Spring
+graduation_year: 2023
 image: /assets/images/students/alexyang.png
 lab:
 - Polo Club of Data Science
@@ -15,6 +17,7 @@ research_interests:
 - Human-Computer Interaction
 - Information Visualization
 - Natural Language Processing
+role: Software Engineer, Goldman Sachs
 twitter: https://twitter.com/AlexanderHYang
 website: https://alexanderyang.me/
 ---

@@ -16,7 +16,9 @@ name: Sakshi Pratap
 research_interests:
 - Information Visualization
 - Machine Learning
-role: Software Engineer, Google
+# role: Software Engineer, Google
+# role: Software Engineer, Stairwell
+role: 
 twitter:
 website:
 ---

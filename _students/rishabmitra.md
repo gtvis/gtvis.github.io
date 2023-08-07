@@ -1,11 +1,12 @@
 ---
 alias: rishabmitra
-degree_level: BS
+# degree_level: BS
+degree_level: MS
 email: rmitra34@gatech.edu
 faculty_advisor:
 - John Stasko
-graduation_semester: Fall
-graduation_year: 2021
+# graduation_semester: Fall
+# graduation_year: 2021
 image: /assets/images/students/rishabmitra.png
 lab:
 - Information Interfaces Group
@@ -15,7 +16,7 @@ name: Rishab Mitra
 research_interests:
 - information visualization
 - natural language processing
-role: Software Engineer at Capital One
+# role: Software Engineer at Capital One
 twitter: https://twitter.com/rishab_mitra
 website:
 ---
