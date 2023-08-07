@@ -1,7 +1,7 @@
 ---
 layout: page
 image_header: 
-intro: We are made of four groups that lead visualization research in Geographic Information Systems, Human Centered AI, Visual Analytics and Information Visualization.
+intro: The team is made up of six groups that lead visualization research in <b>Information Visualization</b>, <b>Visual Analytics</b>, <b>Geographic Information Systems</b>, <b>Visual Perception</b>, <b>Immersive Visualization</b>, and <b>Visual Data Science</b>.
 title: Our Groups
 headtitle: Groups | Georgia Tech Visualization Lab
 permalink: /groups/
