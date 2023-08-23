@@ -6,12 +6,12 @@ faculty_advisor:
 - Cindy Xiong Bearfield
 image: /assets/images/students/kylielin.png
 lab:
-- IVisualizaXiong Lab
+- VisualizaXiong Lab
 linkedin: https://www.linkedin.com/in/kylie-lin/
 major: HCC
 name: Kylie Lin
 research_interests:
 - Information Visualization
 - Perception and Cognition
-twitter: https://twitter.com/kylierlin?lang=en
+twitter: https://twitter.com/kylierlin
 ---
