@@ -2,7 +2,7 @@
 authors:
 - Yu Fu
 - John Stasko
-link: 
+link: https://fuyugt.github.io/assets/papers/HoopInSight.pdf 
 tags:
 - Sports Visualization
 - Comparison Visualization 
