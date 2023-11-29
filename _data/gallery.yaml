@@ -1,3 +1,8 @@
+- title: VISGiving, Fall 2023
+  description: "GT VIS family and friends get together for the annual VISGiving celebration!"
+  image: /assets/images/gallery/visgiving23.jpg
+  discontinued: false
+
 - title: Information Interfaces Group luncheon in the Bay Area.
   description: "II Group and family celebrating John's ACM Fellow Award in the Bay Area."
   image: /assets/images/gallery/john-acmaward-iigroup-lunch.jpeg
@@ -13,10 +18,10 @@
   image: /assets/images/gallery/gt-vis-luncheon-spring23.png
   discontinued: false
 
-- title: VISGiving, Fall 2022
-  description: "GT VIS family and friends get together for the annual VISGiving celebration!"
-  image: /assets/images/gallery/visgiving22.png
-  discontinued: false
+# - title: VISGiving, Fall 2022
+#   description: "GT VIS family and friends get together for the annual VISGiving celebration!"
+#   image: /assets/images/gallery/visgiving22.png
+#   discontinued: false
 
 - title: Mini Golf, Oklahoma City, OK
   description: "The annual IEEE VIS Open: Beginning of a new Mini Golf tradition at VIS 2022 in Oklahoma City, OK."
