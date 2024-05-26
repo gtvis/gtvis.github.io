@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: 'TopicViz: interactive topic exploration in document collections.'
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2012
 ---

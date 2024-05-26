@@ -12,6 +12,6 @@ tags:
 - Awareness
 - Human Bias
 title: 'Lumos: Increasing Awareness of Analytic Behavior during Visual Data Analysis'
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2021
 ---

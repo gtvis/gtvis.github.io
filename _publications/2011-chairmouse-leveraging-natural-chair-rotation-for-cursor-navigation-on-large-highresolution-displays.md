@@ -10,6 +10,6 @@ link:
 tags: []
 title: 'ChairMouse: leveraging natural chair rotation for cursor navigation on large,
   high-resolution displays.'
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2011
 ---

@@ -9,6 +9,6 @@ tags:
 - Visualization Toolkits
 title: 'NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization
   from Natural Language Queries.'
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2020
 ---

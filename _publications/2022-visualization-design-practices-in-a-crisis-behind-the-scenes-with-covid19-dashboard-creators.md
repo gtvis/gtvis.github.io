@@ -17,6 +17,6 @@ tags:
 - Crisis
 - Dashboard
 title: 'Visualization Design Practices in a Crisis: Behind the Scenes with COVID-19 Dashboard Creators'
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2022
 ---

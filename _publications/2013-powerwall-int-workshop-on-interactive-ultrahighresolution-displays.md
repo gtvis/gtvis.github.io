@@ -8,6 +8,6 @@ authors:
 link:
 tags: []
 title: 'POWERWALL: int. workshop on interactive, ultra-high-resolution displays.'
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2013
 ---

@@ -8,6 +8,6 @@ link:
 tags: []
 title: 'SHIFTR: a user-directed, link-based system for ad hoc sensemaking of large
   heterogeneous data collections.'
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2009
 ---

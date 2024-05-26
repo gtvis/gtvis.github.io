@@ -12,6 +12,6 @@ tags:
 - Decision Making
 - Visual Data Analysis
 title: 'Left, Right, and Gender: Exploring Interaction Traces to Mitigate Human Biases'
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2021
 ---

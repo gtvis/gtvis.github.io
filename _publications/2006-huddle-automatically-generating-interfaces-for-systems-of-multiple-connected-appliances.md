@@ -12,7 +12,7 @@ tags:
 - Interaction Paradigms
 title: 'Huddle: automatically generating interfaces for systems of multiple connected
   appliances.'
-venue: UIST
+venue: ACM UIST
 year: 2006
 ---
 Systems of connected appliances, such as home theaters and presentation rooms, are becoming commonplace in our homes and workplaces. These systems are often difficult to use, in part because users must determine how to split the tasks they wish to perform into sub-tasks for each appliance and then find the particular functions of each appliance to complete their sub-tasks. This paper describes Huddle, a new system that automatically generates task-based interfaces for a system of multiple appliances based on models of the content flow within the multi-appliance system.

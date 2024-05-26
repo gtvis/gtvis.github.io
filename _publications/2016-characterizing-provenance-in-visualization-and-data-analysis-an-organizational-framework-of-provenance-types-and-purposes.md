@@ -8,6 +8,6 @@ link:
 tags: []
 title: 'Characterizing Provenance in Visualization and Data Analysis: An Organizational
   Framework of Provenance Types and Purposes.'
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2016
 ---
