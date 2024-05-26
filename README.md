@@ -6,7 +6,7 @@ Website for the Georgia Tech Visualization Lab, deployed at <https://vis.gatech.
 
 - Install [Jekyll and dependencies](https://jekyllrb.com/docs/).
    - For Windows users: we recommend installing Ruby@3.1.4 (https://rubyinstaller.org/downloads/) to avoid the dependency problem between Jekyll and Ruby (For more information: https://talk.jekyllrb.com/t/liquid-4-0-3-tainted/7946). 
-- Install [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (tested on node v11, npm v6.4.1).
+- Install [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (tested on node v18, npm v10).
 - Install npm-based packages using `npm install`.
 - Install bundles: `bundle install`.
 - Compile and serve the app using `bundle exec jekyll serve --livereload`.
