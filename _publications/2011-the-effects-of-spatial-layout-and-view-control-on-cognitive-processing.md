@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: The effects of spatial layout and view control on cognitive processing.
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2011
 ---

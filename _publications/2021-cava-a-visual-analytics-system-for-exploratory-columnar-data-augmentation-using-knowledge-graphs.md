@@ -13,6 +13,6 @@ link:
 tags: []
 title: 'CAVA: A Visual Analytics System for Exploratory Columnar Data Augmentation
   Using Knowledge Graphs.'
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2021
 ---

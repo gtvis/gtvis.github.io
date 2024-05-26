@@ -12,6 +12,6 @@ tags:
 - customization
 
 title: 'Experts prefer text but videos help novices: an analysis of the utility of multi-media content'
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2023
 ---

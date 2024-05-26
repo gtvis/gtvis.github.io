@@ -8,6 +8,6 @@ tags:
 - Human-centered computing
 - Computational notebooks
 title: "StickyLand: Breaking the Linear Presentation of Computational Notebooks"
-venue: CHI (LBW)
+venue: ACM CHI (LBW)
 year: 2022
 ---

@@ -8,6 +8,6 @@ link:
 tags: []
 title: Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation
   and Communication.
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2019
 ---

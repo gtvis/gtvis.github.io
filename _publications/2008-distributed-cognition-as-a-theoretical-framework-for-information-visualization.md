@@ -16,7 +16,7 @@ tags:
 - Performance Evaluation
 - Electronic Mail
 title: Distributed Cognition as a Theoretical Framework for Information Visualization.
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2008
 ---
 Even though information visualization (InfoVis) research has matured in recent years, it is generally acknowledged that the field still lacks supporting, encompassing theories. In this paper, we argue that the distributed cognition framework can be used to substantiate the theoretical foundation of InfoVis. We highlight fundamental assumptions and theoretical constructs of the distributed cognition approach, based on the cognitive science literature and a real life scenario. We then discuss how the distributed cognition framework can have an impact on the research directions and methodologies we take as InfoVis researchers. Our contributions are as follows. First, we highlight the view that cognition is more an emergent property of interaction than a property of the human mind. Second, we argue that a reductionist approach to study the abstract properties of isolated human minds may not be useful in informing InfoVis design. Finally we propose to make cognition an explicit research agenda, and discuss the implications on how we perform evaluation and theory building.

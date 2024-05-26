@@ -13,6 +13,6 @@ tags:
 - Visual Analytics
 - Visual Analytic Tools
 title: 'Causalvis: Visualizations for Causal Inference'
-venue: CHI
+venue: ACM CHI
 year: 2023
 ---

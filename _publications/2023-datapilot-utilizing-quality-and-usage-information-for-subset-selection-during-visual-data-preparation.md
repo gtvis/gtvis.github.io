@@ -19,6 +19,6 @@ tags:
 - Visual Data Analysis
 - Design Study
 title: 'DataPilot: Utilizing Quality and Usage Information for Subset Selection during Visual Data Preparation'
-venue: CHI
+venue: ACM CHI
 year: 2023
 ---

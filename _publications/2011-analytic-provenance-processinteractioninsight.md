@@ -10,6 +10,6 @@ authors:
 link:
 tags: []
 title: 'Analytic provenance: process+interaction+insight.'
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2011
 ---

@@ -10,6 +10,6 @@ tags:
 - Incomplete Dataset
 
 title: 'Evaluating the Effects of Visualizing Missing Values on Data Exploration '
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2020
 ---

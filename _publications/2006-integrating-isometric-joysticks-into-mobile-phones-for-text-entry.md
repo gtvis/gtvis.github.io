@@ -7,6 +7,6 @@ authors:
 link:
 tags: []
 title: Integrating isometric joysticks into mobile phones for text entry.
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2006
 ---

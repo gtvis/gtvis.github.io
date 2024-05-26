@@ -9,6 +9,6 @@ link:
 tags: []
 title: 'Interactive Querying over Large Network Data: Scalability, Visualization,
   and Interaction Design.'
-venue: IUI Companion
+venue: ACM IUI Companion
 year: 2015
 ---
