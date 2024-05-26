@@ -1,0 +1,50 @@
+/* Vertical Spacings */
+.vspace-xs-fixed {
+    margin-top: 8px;
+}
+
+.vspace-sm-fixed {
+    margin-top: 16px;
+}
+
+.vspace-md-fixed {
+    margin-top: 32px;
+}
+
+.vspace-lg-fixed {
+    margin-top: 64px;
+}
+
+.vspace-xs {
+    margin-top: 8px;
+}
+
+.vspace-sm {
+    margin-top: 16px;
+}
+
+.vspace-md {
+    margin-top: 32px;
+}
+
+.vspace-lg {
+    margin-top: 64px;
+}
+
+@media screen and (max-width: 1000px) {
+    .vspace-xs {
+        margin-top: 2px;
+    }
+    
+    .vspace-sm {
+        margin-top: 4px;
+    }
+    
+    .vspace-md {
+        margin-top: 8px;
+    }
+    
+    .vspace-lg {
+        margin-top: 16px;
+    }
+}
