@@ -1,3 +1,8 @@
+- title: ACM CHI'2024, Honolulu, Hawai'i
+  description: "GT VIS family catching up at ACM CHI Conference 2024 in Hawaii, USA."
+  image: /assets/images/gallery/gt-chi24.png
+  discontinued: false
+
 - title: VISGiving, Fall 2023
   description: "GT VIS family and friends get together for the annual VISGiving celebration!"
   image: /assets/images/gallery/visgiving23.jpg
@@ -11,17 +16,17 @@
 - title: ACM CHI'2023, Hamburg, Germany
   description: "GT VIS family catching up at ACM CHI Conference 2023 in Hamburg, Germany."
   image: /assets/images/gallery/gt-chi23.png
-  discontinued: false
+  discontinued: true
 
 - title: Spring 2023 Mid-semester Lab Luncheon
   description: "Having fun conversations over lunch at the Collective Food Hall in the CODA building."
   image: /assets/images/gallery/gt-vis-luncheon-spring23.png
   discontinued: false
 
-# - title: VISGiving, Fall 2022
-#   description: "GT VIS family and friends get together for the annual VISGiving celebration!"
-#   image: /assets/images/gallery/visgiving22.png
-#   discontinued: false
+- title: VISGiving, Fall 2022
+  description: "GT VIS family and friends get together for the annual VISGiving celebration!"
+  image: /assets/images/gallery/visgiving22.png
+  discontinued: true
 
 - title: Mini Golf, Oklahoma City, OK
   description: "The annual IEEE VIS Open: Beginning of a new Mini Golf tradition at VIS 2022 in Oklahoma City, OK."
