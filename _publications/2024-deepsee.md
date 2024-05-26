@@ -25,6 +25,6 @@ tags:
 - Scientific visualization
 - Visual analytics
 title: 'DeepSee: Multidimensional Visualizations of Seabed Ecosystems'
-venue: Proceedings of the CHI Conference on Human Factors in Computing Systems
+venue: ACM CHI
 year: 2024
 ---
