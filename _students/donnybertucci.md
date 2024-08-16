@@ -11,8 +11,8 @@ linkedin: https://www.linkedin.com/in/donny-bertucci/
 major: CS
 name: Donny Bertucci
 research_interests:
-- Visual Analytics
-- Cognitive Bias
+- Visualization
+- Machine Learning
 twitter: https://twitter.com/donny_bertucci/
 website: https://donnybertucci.com/
 ---
