@@ -42,3 +42,6 @@ gem "html-proofer"
 
 # needed for Windows machines
 gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+
+# Added on Fri, Aug 16, 2024 due to an 'breaking' update to the ffi package. Follow related GitHub issue on https://github.com/ffi/ffi/issues/1103 and a community discussion at https://github.com/orgs/community/discussions/127006 (the below fix was suggested here):
+gem "ffi", "= 1.16.3"
