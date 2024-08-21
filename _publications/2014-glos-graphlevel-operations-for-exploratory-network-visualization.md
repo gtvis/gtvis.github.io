@@ -10,6 +10,6 @@ authors:
 link:
 tags: []
 title: 'GLOs: graph-level operations for exploratory network visualization.'
-venue: CHI Extended Abstracts
+venue: ACM CHI (LBW)
 year: 2014
 ---

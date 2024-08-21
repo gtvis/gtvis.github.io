@@ -8,6 +8,6 @@ tags:
 - Data Journalism 
 
 title: 'More Than Data Stories: Broadening the Role of Visualization in Contemporary Journalism'
-venue: TVCG
+venue: IEEE TVCG
 year: 2023
 ---

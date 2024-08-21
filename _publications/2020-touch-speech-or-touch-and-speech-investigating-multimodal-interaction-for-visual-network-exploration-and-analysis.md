@@ -7,6 +7,6 @@ link:
 tags: []
 title: Touch? Speech? or Touch and Speech? Investigating Multimodal Interaction for
   Visual Network Exploration and Analysis.
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2020
 ---

@@ -9,6 +9,6 @@ link:
 tags: []
 title: Understanding Interfirm Relationships in Business Ecosystems with Interactive
   Visualization.
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2013
 ---

@@ -10,6 +10,6 @@ authors:
 link:
 tags: []
 title: 'Finding Waldo: Learning about Users from their Interactions.'
-venue: IEEE Trans. Vis. Comput. Graph.
+venue: IEEE TVCG
 year: 2014
 ---

@@ -7,6 +7,6 @@ tags:
 - Sports Visualization
 
 title: 'Supporting Data-Driven Basketball Journalism through Interactive Visualization'
-venue: CHI
+venue: ACM CHI
 year: 2022
 ---
