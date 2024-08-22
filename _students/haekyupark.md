@@ -4,7 +4,7 @@ degree_level: PhD
 email: haekyu@gatech.edu
 faculty_advisor:
 - Polo Chau
-graduation_semester: Winter
+graduation_semester: Fall
 graduation_year: 2023
 image: /assets/images/students/haekyupark.png
 lab:
