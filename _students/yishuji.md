@@ -1,19 +1,19 @@
 ---
-alias: same as filename
-name: ...
-lab: VA Lab | Polo Club of Data Science | Information Interfaces Group | Friendly Cities Lab | EntSci Lab | James Foley's Group
-degree_level: PhD | BS | MS | PostDoc
-major: CS | HCC | CSE | ML | CRP | IsYE | HCI | (add new acronym if required)
-graduation_year: YYYY
-graduation_semester: Spring | Summer | Fall
+alias: yishuji
+name: Yishu Ji
+lab: VisualizaXiong Lab
+degree_level: PhD
+major: HCC
+graduation_year:
+graduation_semester:
 role: Scientist, ABC Software
 research_interests: 
     - Natural Interaction
     - ...
 faculty_advisor:
-    - John Stasko | Alex Endert | Polo Chau | Clio Andris | Rahul Basole | James Foley
+    - Cindy Xiong Bearfield
     - ...
-image: /assets/images/people/....png
+image: /assets/images/yishuji.png
 website: ...
 email: ...
 linkedin: 
