@@ -1,19 +1,18 @@
 ---
 alias: chenyangzhang
-degree_level: PhD
-email: chenyang.zhang@gatech.edu
-faculty_advisor:
-- Yalong Yang
-image: /assets/images/students/chenyangzhang.jpg
-lab:
-- IVI Lab
-linkedin: https://www.linkedin.com/in/chenyangz
-major: HCC
 name: Chenyang Zhang
+lab: IVI Lab
+degree_level: PhD
+major: HCC
 research_interests:
 - VR/AR
 - Spatial Computing
 - Immersive Analytics
-twitter: https://twitter.com/chenyang_zh
+faculty_advisor:
+- Yalong Yang
+image: /assets/images/students/chenyangzhang.png
 website: https://chenyang.me/
+email: chenyang.zhang@gatech.edu
+linkedin: https://www.linkedin.com/in/chenyangz
+twitter: https://twitter.com/chenyang_zh
 ---
