@@ -22,6 +22,18 @@
   image: /assets/images/showcase/cnn-explainer.png
   description: Learn Convolutional Neural Network (CNN) in your browser!
 
+- title: DeepSee
+  image: /assets/images/showcase/deepsee.png
+  description: Visualizing deep ocean biogeochemical sediment samples in multiple dimensions!
+
+- title: KnowledgeVIS
+  image: /assets/images/showcase/knowledgevis.png
+  description: Visually compare fill-in-the-blank LLM prompts to uncover learned biases and associations!
+
+- title: iScore
+  image: /assets/images/showcase/iscore.png
+  description: Visually compare multiple LLM-graded summaries simultaneously!
+
 - title: Detecting and Mitigating Biased Visual Analysis Strategies
   image: /assets/images/showcase/bias-teaser.png
   description:
