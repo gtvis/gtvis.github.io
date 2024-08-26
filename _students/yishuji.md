@@ -13,7 +13,7 @@ research_interests:
     - Human Cognition and Perception
 faculty_advisor:
     - Cindy Xiong Bearfield
-image: /assets/images/yishuji.png
+image: /assets/images/students/yishuji.jpg
 website: https://yishu-ji.github.io/
 email: yji329@gatech.edu
 linkedin: https://www.linkedin.com/in/yishu-ji-3270a7258/
