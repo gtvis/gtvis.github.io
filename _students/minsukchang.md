@@ -1,7 +1,7 @@
 ---
 alias: minsukchang
 name: Minsuk Chang
-lab: VisualizaXiong Lab
+lab: VisualizaXiong Lab 
 degree_level: PhD
 major: CS
 graduation_year:
