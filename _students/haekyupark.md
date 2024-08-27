@@ -4,6 +4,8 @@ degree_level: PhD
 email: haekyu@gatech.edu
 faculty_advisor:
 - Polo Chau
+graduation_semester: Fall
+graduation_year: 2023
 image: /assets/images/students/haekyupark.png
 lab:
 - Polo Club of Data Science
@@ -13,6 +15,7 @@ name: Haekyu Park
 research_interests:
 - Deep Learning Interpretability
 - Data Visualization
+role: Machine Learning Engineer, Stripe
 twitter:
 website: https://haekyu.com
 ---

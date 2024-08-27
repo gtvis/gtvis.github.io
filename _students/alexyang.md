@@ -1,14 +1,10 @@
 ---
 alias: alexyang
-degree_level: MS
+degree_level: PhD
 email: alexanderyang@gatech.edu
 faculty_advisor:
-- Polo Chau
-graduation_semester: Spring
-graduation_year: 2023
+- Yalong Yang
 image: /assets/images/students/alexyang.png
-lab:
-- Polo Club of Data Science
 linkedin: https://www.linkedin.com/in/alexyang-gt/
 major: CS
 name: Alex Yang
@@ -17,7 +13,6 @@ research_interests:
 - Human-Computer Interaction
 - Information Visualization
 - Natural Language Processing
-role: Software Engineer, Goldman Sachs
 twitter: https://twitter.com/AlexanderHYang
 website: https://alexanderyang.me/
 ---

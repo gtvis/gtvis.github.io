@@ -8,6 +8,8 @@ research_interests:
     - Visual Analytics
 faculty_advisor:
     - Alex Endert
+graduation_semester: Fall
+graduation_year: 2023
 image: /assets/images/students/kaustubhodak.png
 website: https://kaustubhodak.me
 email: kodak@gatech.edu
