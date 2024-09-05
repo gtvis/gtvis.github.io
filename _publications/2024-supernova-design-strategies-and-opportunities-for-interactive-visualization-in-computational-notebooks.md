@@ -1,6 +1,6 @@
 ---
 authors:
-- Zijie J Wang
+- Zijie J. Wang
 - David Munechika
 - Seongmin Lee
 - Duen Horng Chau
