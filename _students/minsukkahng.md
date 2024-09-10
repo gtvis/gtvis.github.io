@@ -16,7 +16,7 @@ research_interests:
 - Visual Analytics
 - Human-Centered AI
 - Machine Learning Interpretation
-role: Faculty, Oregon State University
+role: Research Scientist, Google DeepMind
 twitter: https://twitter.com/minsukkahng
 website: https://minsuk.com
 ---

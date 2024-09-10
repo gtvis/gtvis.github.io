@@ -13,7 +13,7 @@ linkedin:
 major: CS
 name: Yi Han
 research_interests:
-role: Principle Research Engineer, Delta Electronics
+role: Faculty, National Sun Yat-sen University
 twitter:
 website: https://yi-vis.github.io/
 ---
