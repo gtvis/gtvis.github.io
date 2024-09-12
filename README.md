@@ -35,7 +35,7 @@ If you are unfamiliar with forking and submitting pull requests,
 ### Deployment
 ** Only for an admin **
 
-1. For each successful _push_ to the `main` branch, Github will automatically start a workflow and compile the source into the `build` branch.
+1. For each successful _push_ to the `main` branch, Github will automatically start a workflow (via Github Actions) and compile the source into the `build` branch. If something is going wrong here or if something needs to be changed here, edit [.github/workflows/github-pages.yml](.github/workflows/github-pages.yml).
 2. Verify the build through a green checkmark next to the commit message / workflow AND by actually going to the `build` branch to see fresh commits (sometimes, the workflow does not automatically push these commits, which is weird.). Depending on what goes wrong, either `Re-run all jobs` or debug your code by following the error log.
 3. To deploy the code in the `build` branch to vis.gatech.edu, first login to the GT VPN.
 4. Go to hosting.gatech.edu > My Plesk Hosting > vis.gatech.edu (you must be an admin to see these -- reach out to core faculty if you must.)
