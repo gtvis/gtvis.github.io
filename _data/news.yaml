@@ -1,3 +1,17 @@
+- title: Adam wins poster award at CRIDC!
+  _date: '2025-02-06'
+  image: /assets/images/news/2025_adam_cridcaward.jpg
+  short_description: Adam Coscia won the EVPR Award at CRIDC Poster Competition 2025.
+  description:
+    Adam Coscia won the Executive Vice President for Research (EVPR) Award at the 2025 <a href="https://grad.gatech.edu/career-research-and-innovation-development-conference-cridc">Career, Research and Innovation Development Conference (CRIDC)</a> for their poster on <a href="https://adamcoscia.com/papers/vispile/24-las-vispile-poster.pdf">Incorporating Knowledge Graphs and Large Language Models into Visual Text Analysis Tools</a>.
+
+- title: Adam is a Foley Scholar Finalist!
+  _date: '2024-11-12'
+  image: /assets/images/news/2024_adam_foleyscholars.jpg
+  short_description: Adam Coscia was selected as <a href="https://research.gatech.edu/foley-scholars-2024-winners-and-finalists" target="_blank">one of eight finalists for the GVU and IPaT Foley Scholar Award</a> for 2024 in the PhD category.
+  description: 
+    The <a href="https://research.gatech.edu/ipat/foley-endowment" target="_blank">Foley Scholars Program</a> recognizes the achievements of top graduate students whose personal vision and innovations in their research fields have the potential to shape how people interact with technology.
+
 - title: CHI 24 Participation
   _date: '2024-05-16'
   image: /assets/images/news/2024_chi.png
@@ -52,7 +66,7 @@
   image: /assets/images/news/arpit-gvufoleyscholar-finalist2023.png
   short_description: Arpit Narechania was selected as <a href="https://research.gatech.edu/foley-scholars-2023-winners-and-finalists" target="_blank">one of four finalists for the GVU and IPaT Foley Scholar Award</a> for 2023 in the PhD category.
   description: 
-    The <a href="https://gvu.gatech.edu/foley-scholars-and-gvu-distinguished-masters-students" target="_blank">Foley Scholars Program</a> recognizes the achievements of top graduate students whose personal vision and innovations in their research fields have the potential to shape how people interact with technology.
+    The <a href="https://research.gatech.edu/ipat/foley-endowment" target="_blank">Foley Scholars Program</a> recognizes the achievements of top graduate students whose personal vision and innovations in their research fields have the potential to shape how people interact with technology.
 
 - title: Prof. Cindy Xiong Bearfield joins the VIS group
   _date: '2023-08-11'
