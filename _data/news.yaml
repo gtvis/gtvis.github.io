@@ -1,3 +1,4 @@
+
 - title: Adam wins poster award at CRIDC!
   _date: '2025-02-06'
   image: /assets/images/news/2025_adam_cridcaward.jpg
@@ -11,6 +12,21 @@
   short_description: Adam Coscia was selected as <a href="https://research.gatech.edu/foley-scholars-2024-winners-and-finalists" target="_blank">one of eight finalists for the GVU and IPaT Foley Scholar Award</a> for 2024 in the PhD category.
   description: 
     The <a href="https://research.gatech.edu/ipat/foley-endowment" target="_blank">Foley Scholars Program</a> recognizes the achievements of top graduate students whose personal vision and innovations in their research fields have the potential to shape how people interact with technology.
+
+- title: Recent Grads
+  _date: '2024-12-12'
+  image: /assets/images/news/grad_24.jpg
+  short_description: Recent grads at Fall '24 Commencement.
+  description:
+    Congratulations to our recent PhD graduates Grace Guo, Hayeong Song, Arpit Narechania, and Jay Wang. They are moving on to Harvard (PostDoc), Western Digital (Research Data Scientist), Hong Kong University of Science and Technology (Faculty), and OpenAI (Safety Researcher), respectively. In the photo, Hayeong and Arpit are with their advisors, John and Alex.
+
+- title: VIS 24 Participation
+  _date: '2024-10-14'
+  image: /assets/images/news/gt_vis_24.png
+  short_description: GT Vis Lab participates in VIS this year. Check out <a class="theme-text" target="_blank" href="https://x.com/GT_Vis/status/1845650641839874379">all our contributions here&nbsp;<i class="fa fa-external-link"></i></a>.
+  description:
+    The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>10 papers</strong>, <strong>4 workshop papers</strong>, and <strong>5 posters</strong>.
+
 
 - title: CHI 24 Participation
   _date: '2024-05-16'
@@ -39,20 +55,12 @@
   description:
     The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>9 papers</strong>, and <strong>3 posters</strong>.
 
-  _date: '2023-10-25'
-  image: /assets/images/news/gt-vis23.jpg
-  short_description: GT Vis Lab participates in VIS this year. Check out <a class="theme-text" target="_blank" href="https://x.com/GT_Vis/status/1716890770131832956?s=20">all our contributions here&nbsp;<i class="fa fa-external-link"></i></a>.
-  description:
-    The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>9 papers</strong>, and <strong>3 posters</strong>.
-
-
 - title: Atlanta Vis Meet-up! 
   _date: '2023-10-13' 
   image:  /assets/images/news/atl vis1.jpg
   short_description: Thank you to everyone who participated in the Atlanta Vis Meet-up and shared their exciting projects.  
   description:  
     A big thanks to Alex Endert and Emily Wall for hosting the Atlanta Vis Meet-up. It was exciting to have our colleagues from the Georgia Tech Visualization Group, the Cognition & Visualization Lab at Emory, Georgia State University, Google, Microsoft, and Augusta University share their fantastic projects. 
-
 
 - title: Arpit facilitates TA and Future Faculty Workshops
   _date: '2023-10-05'

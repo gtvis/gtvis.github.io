@@ -1,46 +1,42 @@
-- title: Data Animator
-  image: /assets/images/showcase/data-animator.png
-  description: Authoring Expressive Animated Data Graphics
-
-- title: Data Illustrator
-  image: /assets/images/showcase/data-illustrator.png
-  description: Create infographics and data visualizations without programming.
-
-- title: DataBreeze
-  image: /assets/images/showcase/databreeze.png
-  description: Experience Multimodal Interactions with Visualizations for Data Exploration
-
-- title: Vega-Lite Editor
-  image: /assets/images/showcase/nl4dv-vleditor.png
-  description: A Natural-Language powered Vega-Lite Editor using NL4DV
-
-- title: NL4DV
-  image: /assets/images/showcase/nl4dv-jupyter-notebook.png
-  description: The Natural Language Toolkit For Data Visualization!
-
-- title: CNN Explainer
-  image: /assets/images/showcase/cnn-explainer.png
-  description: Learn Convolutional Neural Network (CNN) in your browser!
+- title: ProvenanceWidgets
+  image: /assets/images/showcase/provenance-widgets.png
+  description: JavaScript library of UI controls to track and dynamically overlay analytic provenance
 
 - title: DeepSee
   image: /assets/images/showcase/deepsee.png
   description: Visualizing deep ocean biogeochemical sediment samples in multiple dimensions!
 
-- title: KnowledgeVIS
-  image: /assets/images/showcase/knowledgevis.png
-  description: Visually compare fill-in-the-blank LLM prompts to uncover learned biases and associations!
-
 - title: iScore
   image: /assets/images/showcase/iscore.png
   description: Visually compare multiple LLM-graded summaries simultaneously!
 
-- title: Detecting and Mitigating Biased Visual Analysis Strategies
-  image: /assets/images/showcase/bias-teaser.png
-  description:
+- title: KnowledgeVIS
+  image: /assets/images/showcase/knowledgevis.png
+  description: Visually compare fill-in-the-blank LLM prompts to uncover learned biases and associations!
 
-- title: Visual Analytics by Demonstration for Interactive Data Analysis
-  image: /assets/images/showcase/vbd-diagram.png
-  description:
+- title: Data Animator
+  image: /assets/images/showcase/data-animator.png
+  description: Authoring Expressive Animated Data Graphics
+
+- title: Lumos
+  image: /assets/images/showcase/lumos.png
+  description: Increase Awareness of Analytic Behavior during Visual Data Analysis
+
+- title: NL4DV
+  image: /assets/images/showcase/nl4dv-jupyter-notebook.png
+  description: The Natural Language Toolkit For Data Visualization!
+
+- title: Natural-Language powered Vega-Lite Editor
+  image: /assets/images/showcase/nl4dv-vleditor.png
+  description: Learn Vega-Lite syntax by asking questions in natural language.
+
+- title: CNN Explainer
+  image: /assets/images/showcase/cnn-explainer.png
+  description: Learn Convolutional Neural Network (CNN) in your browser!
+
+- title: DataBreeze
+  image: /assets/images/showcase/databreeze.png
+  description: Experience Multimodal Interactions with Visualizations for Data Exploration
 
 - title: Bluff
   image: /assets/images/showcase/bluff.png
@@ -49,6 +45,18 @@
 - title: SafetyLens
   image: /assets/images/showcase/safetylens.png
   description: Visual Data Analysis of Functional Safety of Vehicles
+
+- title: Data Illustrator
+  image: /assets/images/showcase/data-illustrator.png
+  description: Create infographics and data visualizations without programming.
+
+- title: Detecting and Mitigating Biased Visual Analysis Strategies
+  image: /assets/images/showcase/bias-teaser.png
+  description:
+
+- title: Visual Analytics by Demonstration for Interactive Data Analysis
+  image: /assets/images/showcase/vbd-diagram.png
+  description:
 
 - title: Social Network Analysis
   image: /assets/images/showcase/social-network-analysis.png

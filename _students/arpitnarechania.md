@@ -1,10 +1,12 @@
 ---
 alias: arpitnarechania
 degree_level: PhD
-email: arpitnarechania@gatech.edu
+email: arpit@ust.hk
 faculty_advisor:
 - Alex Endert
 - Rahul Basole
+graduation_semester: Fall
+graduation_year: 2024
 image: /assets/images/students/arpitnarechania.png
 lab:
 - VA Lab
@@ -13,10 +15,12 @@ linkedin: https://www.linkedin.com/in/narechania/
 major: CS
 name: Arpit Narechania
 research_interests:
-- human biases
+- guidance
+- analytic provenance
 - natural language processing
-- information visualization
+- visual analytics
 - human computer interaction
+role: Faculty, HKUST
 twitter: https://twitter.com/arpitnarechania
-website: http://arpit.narechania.com
+website: https://narechania.com
 ---
