@@ -1,7 +1,7 @@
 ---
 name: John Stasko
 lab: Information Interfaces Group,
-image: /assets/images/faculty/johnstasko.png
+image: /assets/images/faculty/johnstasko.jpg
 website: https://www.cc.gatech.edu/~john.stasko/
 email: stasko@cc.gatech.edu
 linkedin: https://www.linkedin.com/in/johnstasko/
