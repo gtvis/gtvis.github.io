@@ -6,7 +6,7 @@ website: https://www.cc.gatech.edu/~dchau/
 email: polo@gatech.edu
 linkedin: https://www.linkedin.com/in/polochau/
 twitter: https://twitter.com/PoloChau
-role: Associate Professor
+role: Professor
 type: "core"
 keywords:
     - human-centered AI
