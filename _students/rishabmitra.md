@@ -5,8 +5,8 @@ degree_level: MS
 email: rmitra34@gatech.edu
 faculty_advisor:
 - John Stasko
-# graduation_semester: Fall
-# graduation_year: 2021
+graduation_semester: Spring
+graduation_year: 2025
 image: /assets/images/students/rishabmitra.png
 lab:
 - Information Interfaces Group

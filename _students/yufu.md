@@ -4,6 +4,8 @@ degree_level: PhD
 email: fuyu@gatech.edu
 faculty_advisor:
 - John Stasko
+graduation_semester: Summer
+graduation_year: 2025
 image: /assets/images/students/yufu.png
 lab:
 - Information Interfaces Group

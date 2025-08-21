@@ -4,6 +4,8 @@ degree_level: MS
 email: sru3@gatech.edu
 faculty_advisor:
 - Cindy Xiong Bearfield
+graduation_semester: Spring
+graduation_year: 2025
 image: /assets/images/students/seanru.png
 lab:
 - VisualizaXiong Lab
