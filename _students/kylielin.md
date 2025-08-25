@@ -7,6 +7,7 @@ faculty_advisor:
 image: /assets/images/students/kylielin.png
 lab:
 - VisualizaXiong Lab
+website: https://kylierlin.github.io/
 linkedin: https://www.linkedin.com/in/kylie-lin/
 major: HCC
 name: Kylie Lin
