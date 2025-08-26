@@ -14,7 +14,7 @@ research_interests:
 faculty_advisor:
     -  Clio Andris 
     -  Alex Endert
-image: /assets/images/students/sichen.png
+image: /assets/images/students/SichenJin.jpg
 website: https://sichenj.in/
 email: sjin86@gatech.edu
 linkedin: https://www.linkedin.com/in/sichen-jin-521286205/
