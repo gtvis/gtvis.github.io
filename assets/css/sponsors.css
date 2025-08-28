@@ -1,0 +1,38 @@
+/* Sponsors Section */
+#sponsors .sponsor-container {
+    position: relative;
+    height: 150px;
+    width: auto;
+    padding: 8px;
+    /* border: 1px solid black; */
+    display: table;
+}
+
+#sponsors .sponsor-container a {
+    display: table-cell;
+    vertical-align: middle;
+    max-height: 100%;
+}
+
+#sponsors .card-img-top {
+    display: block;
+    max-height: 100%;
+    object-fit: cover;
+    filter: gray;
+    /* IE6-9 */
+    -webkit-filter: grayscale(1);
+    /* Google Chrome, Safari 6+ & Opera 15+ */
+    filter: grayscale(1);
+    /* Microsoft Edge and Firefox 35+ */
+}
+
+#sponsors .card-img-top:hover {
+    -webkit-filter: grayscale(0);
+    filter: none;
+}
+
+@media screen and (max-width: 1000px) {
+    #sponsors .sponsor-container {
+        height: 100px;
+    }
+}
