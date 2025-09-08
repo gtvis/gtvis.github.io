@@ -4,7 +4,7 @@ degree_level: PhD
 email: sduwal3@gatech.edu
 faculty_advisor:
 - Alex Endert
-image: /assets/images/students/sujata.heic
+image: /assets/images/students/sujata.png
 lab:
 - VA Lab
 linkedin: https://www.linkedin.com/in/sujataduwal
