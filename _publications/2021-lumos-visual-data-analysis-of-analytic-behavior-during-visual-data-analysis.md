@@ -4,7 +4,7 @@ authors:
 - Adam Coscia
 - Emily Wall
 - Alex Endert
-link:
+link: https://arxiv.org/abs/2108.02909
 tags: 
 - Visual Data Analysis
 - Interaction Traces

@@ -4,7 +4,7 @@ authors:
 - Ashley Suh
 - Remco Chang
 - Alex Endert
-link: https://doi.org/10.1109/TVCG.2023.3334513
+link: https://arxiv.org/abs/2403.04757
 tags:
 - Visual analytics
 - Data integration

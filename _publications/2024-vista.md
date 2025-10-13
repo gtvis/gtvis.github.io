@@ -6,7 +6,7 @@ authors:
 - Adam Coscia
 - Chris MacLellan
 - Alex Endert
-link: 
+link: https://arxiv.org/abs/2404.12944
 tags:
 - Visual analytics
 - Online Learning
