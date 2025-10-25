@@ -6,7 +6,7 @@ authors:
 - Joon Suh Choi
 - Scott Crossley
 - Alex Endert
-link: https://doi.org/10.1145/3640543.3645142
+link: https://arxiv.org/abs/2403.04760
 tags: 
 - Data visualization
 - Visual analytics
