@@ -1,0 +1,70 @@
+.large-card {
+    /* padding: 30px 30px 30px 25px; */
+    margin-bottom: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+}
+
+.mini-card {
+    margin-top: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+    /* transition: all 0.1s ease; */
+}
+
+.mini-card h2 {
+    font-family: Bai Jamjuree;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.95em;
+    line-height: 1em;
+    /* identical to box height, or 123% */
+    word-wrap: break-word;
+    color: #161614;
+    margin-top: 6px;
+    opacity: 0.8;
+}
+
+.mini-card h3 {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.85em;
+    line-height: 1em;
+    color: #3F3E3B;
+    /* position: absolute; */
+    /* bottom: 0px; */
+    word-wrap: break-word;
+}
+
+.medium-card {
+    margin-top: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+    /* transition: all 0.1s ease; */
+}
+
+.medium-card h2 {
+    font-family: Bai Jamjuree;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.20em;
+    line-height: 1.25em;
+    /* identical to box height, or 123% */
+    word-wrap: break-word;
+    color: #161614;
+    margin-top: 6px;
+    opacity: 0.8;
+}
+
+.medium-card h3 {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.95em;
+    line-height: 1.1em;
+    color: #3F3E3B;
+    /* position: absolute; */
+    /* bottom: 0px; */
+    word-wrap: break-word;
+}
