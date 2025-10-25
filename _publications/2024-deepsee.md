@@ -17,7 +17,7 @@ authors:
 - Alex Endert
 - Scott Davidoff
 - Victoria J Orphan
-link: https://doi.org/10.1145/3613904.3642001
+link: https://arxiv.org/abs/2403.04761
 tags:
 - Data visualization
 - Deep ocean research

@@ -5,7 +5,7 @@ authors:
 - Adam Coscia
 - Jamal Paden
 - Alex Endert
-link:
+link: https://arxiv.org/abs/2108.03536
 tags: 
 - Human Bias
 - Bias Mitigation

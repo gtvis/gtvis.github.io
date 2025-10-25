@@ -2,7 +2,7 @@
 authors:
 - Adam Coscia
 - Alex Endert
-link: https://doi.org/10.1109/TVCG.2023.3346713
+link: https://arxiv.org/abs/2403.04758
 tags:
 - Visual analytics
 - Large language models

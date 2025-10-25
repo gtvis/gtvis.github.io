@@ -13,7 +13,8 @@ name: Adam Coscia
 research_interests:
 - Visual Analytics
 - Human-Computer Interaction
-- Explainable AI
+- Artificial Intelligence
+- Trustworthy AI
 - Sensemaking
 twitter: https://twitter.com/AdamCoscia
 website: https://adamcoscia.com/
