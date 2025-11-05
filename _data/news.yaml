@@ -1,6 +1,14 @@
+- title: Arpit wins VGTC Dissertation Award
+  _date: '2025-11-05'
+  image: /assets/images/news/arpit_award.jpg
+  short_description: Arpit Narechania won the IEEE VGTC Top Visualization Dissertation Award at IEEE VIS 2025.
+  description:
+    Arpit Narechania received the IEEE VGTC Award for the top Visualization-related PhD Dissertation of the past year for his research on designing, developing, and democratizing guidance for visual analytics.
+
+
 - title: VIS 25 Participation
   _date: '2025-10-25'
-  image: /assets/images/news/gt_vis_25.png
+  image: /assets/images/news/visgroup25.jpg
   short_description: GT Vis Lab participates in VIS this year. Check out <a class="theme-text" target="_blank" href="https://x.com/GT_Vis/status/1981023907873218946">all our contributions here&nbsp;<i class="fa fa-external-link"></i></a>.
   description:
     The GT Visualization Lab contributes to the VIS conference this year in a number of ways. This includes <strong>6 papers</strong>, <strong>3 workshop papers</strong>, and <strong>1 posters</strong>.
