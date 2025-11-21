@@ -13,7 +13,7 @@ faculty_advisor:
     - Jessica Roberts
 image: /assets/images/students/yuhanwang.jpeg
 website: https://yuhanwww.github.io
-email: yuhan_wang@gatech.edu
+email: yuhan.wang@gatech.edu
 linkedin: https://www.linkedin.com/in/yuhan-wang-yw/
 twitter:
 ---
