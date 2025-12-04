@@ -8,6 +8,16 @@
   image: /assets/images/gallery/visgiving25.jpg
   discontinued: false
 
+- title: Professor John Stasko Retirement Celebration
+  description: "A warm celebration honoring Professor John Stasko’s 36 years of leadership, scholarship, and mentorship in the School of Interactive Computing"
+  image: /assets/images/news/john_event.jpg
+  discontinued: false
+
+- title: Atlanta Vis Meet-up, Spring 2025
+  description: "Atlanta Meet-up of the visualization labs at Georgia Tech, Emory, and colleagues from GSU, Autodesk, Apple, and Dolby."
+  image: /assets/images/news/atl_25_meet.jpg
+  discontinued: false  
+
 - title: Information Interfaces Group luncheon in the Bay Area.
   description: "II Group and family celebrating John's ACM Fellow Award in the Bay Area."
   image: /assets/images/gallery/john-acmaward-iigroup-lunch.jpeg
@@ -18,24 +28,9 @@
   image: /assets/images/gallery/gt-chi23.png
   discontinued: true
 
-- title: Spring 2023 Mid-semester Lab Luncheon
-  description: "Having fun conversations over lunch at the Collective Food Hall in the CODA building."
-  image: /assets/images/gallery/gt-vis-luncheon-spring23.png
-  discontinued: false
-
-- title: VISGiving, Fall 2022
-  description: "GT VIS family and friends get together for the annual VISGiving celebration!"
-  image: /assets/images/gallery/visgiving22.png
-  discontinued: true
-
-- title: Mini Golf, Oklahoma City, OK
-  description: "The annual IEEE VIS Open: Beginning of a new Mini Golf tradition at VIS 2022 in Oklahoma City, OK."
-  image: /assets/images/gallery/gt-vis22-minigolf.png
-  discontinued: false
-
-- title: IEEE VIS'2022, Oklahoma City, OK
-  description: Annual meet-up of the Visualization Lab current students and alumni at IEEE VIS Conference 2022 in Oklahoma City, OK.
-  image: /assets/images/gallery/gt-vis22.png
+- title: IEEE VIS'2023, Melbourne, Australia
+  description: Annual meet-up of the Visualization Lab’s current students and alumni at the IEEE VIS 2023 Conference in Melbourne, Australia.
+  image: /assets/images/news/gt-vis23.jpg
   discontinued: false
 
 - title: Lab
@@ -58,11 +53,6 @@
   image: /assets/images/gallery/trolley.png
   discontinued: true
 
-- title: ACM CHI'2022, New Orleans, LA
-  description: Many of us presented at ACM CHI Conference 2022 in New Orleans, Louisiana.
-  image: /assets/images/gallery/gt-chi22.png
-  discontinued: true
-
 - title: Lab Meeting over Lunch
   description: A refreshing lunch in the Tech Square courtyard during the Fall'21 semester.
   image: /assets/images/gallery/gt-vis-luncheon-fall21.png
@@ -73,18 +63,3 @@
   image: /assets/images/gallery/gt-vis-remote-meetings.png
   discontinued: true
 
-
-- title: IEEE VIS'2019, Vancouver, CA
-  description: Annual meet-up of the Visualization Lab current students and alumni at IEEE VIS Conference 2019 in Vancouver, CA.
-  image: /assets/images/gallery/gt-vis19.png
-  discontinued: true
-
-- title: IEEE VIS'2018, Berlin, DE
-  description: Annual meet-up of the Visualization Lab current students and alumni at IEEE VIS Conference 2018 in Berlin, DE.
-  image: /assets/images/gallery/gt-vis18.png
-  discontinued: true
-
-- title: IEEE VIS'2017, Phoenix, AZ
-  description: Annual meet-up of the Visualization Lab current students and alumni at IEEE VIS Conference 2017 in Phoenix, AZ.
-  image: /assets/images/gallery/gt-vis17.png
-  discontinued: true
