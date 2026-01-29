@@ -16,6 +16,7 @@ research_interests:
 - Information Visualization
 - Sports Visualization
 - HCI
+role: Faculty, UCF
 twitter: https://twitter.com/YuFuTroy
-website: https://sites.gatech.edu/yufu/
+website: https://fuyugt.github.io/
 ---
