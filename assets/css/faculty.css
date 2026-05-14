@@ -1,0 +1,71 @@
+/* Faculty Section */
+#faculty .large-card-container:nth-child(2) {
+    margin-top: 80px;
+}
+
+#faculty .large-card-container:nth-child(odd) {
+    margin-top: -80px;
+}
+
+#faculty .large-card-container:nth-child(1) {
+    margin-top: 0px;
+}
+
+#faculty .description h2 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6em;
+    color: #161614;
+    opacity: 0.8;
+    margin-top: 10px;
+}
+
+#faculty .description p {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #3F3E3B;
+}
+
+#faculty .description h3 {
+    display: inline;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1em;
+    color: #3F3E3B;
+}
+
+@media screen and (max-width: 1000px) {
+
+    #faculty .description {
+        margin-left: 0px;
+    }
+
+    #affiliated-faculty .description {
+        margin-left: 0px;
+    }
+
+    #faculty .tags {
+        font-size: 0.8em;
+    }
+
+    #faculty .tags span {
+        margin-right: 16px;
+    }
+
+    #faculty .large-card-container:nth-child(even) {
+        margin-top: 24px;
+    }
+
+    #faculty .large-card-container:nth-child(odd) {
+        margin-top: 24px;
+    }
+
+    #faculty .large-card-container:nth-child(1) {
+        margin-top: 24px;
+    }
+}

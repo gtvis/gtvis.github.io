@@ -1,0 +1,100 @@
+/* Courses Section */
+#courses .card {
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.16), 0px 0px 8px rgba(0, 0, 0, 0.08);
+    margin-bottom: 15px;
+    transition: all 0.1s ease;
+}
+
+#courses .card:hover {
+    border: 2px solid #F0B310;
+    transform: translateY(-8px);
+    box-shadow: 0px 16px 16px rgba(0, 0, 0, 0.16), 0px 0px 16px rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+}
+
+#courses .card-active {
+    border: 2px solid #F0B310;
+    transform: translateY(-8px);
+    box-shadow: 0px 16px 16px rgba(0, 0, 0, 0.16), 0px 0px 16px rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+}
+
+#courses .active {
+    border: 2px solid #F0B310;
+}
+
+#courses .container:nth-child(1) .card {
+    border: 2px solid #F0B310;
+}
+
+#courses .card .title {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.25em;
+    line-height: 1em;
+    color: #161614;
+    opacity: 0.8;
+}
+
+#courses .card p {
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #3F3E3B;
+    margin-top: 8px;
+}
+
+#courses h3 {
+    font-family: Bai Jamjuree;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    text-align: center;
+    /* identical to box height, or 123% */
+    word-wrap: break-word;
+    color: #161614;
+    margin-top: 6px;
+    opacity: 0.8;
+}
+
+#courses .tags span {
+    margin-top: 10px;
+}
+
+#courses .course-details-inactive {
+    display: none;
+    height: 0px;
+    transition: all 0.1s ease;
+}
+
+#courses .course-details-active {
+    display: block;
+    height: auto !important;
+}
+
+#courses .course-details-inactive img {
+    margin-right: 5px;
+}
+
+#courses .table-course-offerings tr {
+    padding: 2px;
+}
+
+#courses .table-course-offerings td {
+    padding: 4px;
+}
+
+@media screen and (max-width: 1000px) {
+    #courses h3 {
+        font-size: 1.5em;
+    }
+
+    #courses .table-course-offerings tr {
+        border-bottom: 1px solid #fefefe;
+    }
+}

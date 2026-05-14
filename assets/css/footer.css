@@ -1,0 +1,43 @@
+/* Footer */
+.footer {
+    position: relative;
+    width: 100%;
+    min-height: 250px;
+    background-color: #161614;
+    color: #bbb;
+    text-align: center;
+}
+
+.footer-logo{
+    width: 20%;
+}
+
+.footer-content {
+    position: absolute;
+    padding: 1rem;
+    margin: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+    color: gray;
+}
+
+.footer-content a {
+    color: gray;
+}
+
+.footer-content a:hover {
+    color: lightgray;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1000px) {
+    .footer {
+        min-height: 250px;
+    }
+    .footer-logo{
+        width: 50%;
+    }    
+}
