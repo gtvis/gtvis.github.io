@@ -1,0 +1,30 @@
+#gallery .navigation div {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+#gallery h2 {
+
+    font-family: Bai Jamjuree;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6em;
+    color: #161614;
+    opacity: 0.8;
+}
+
+#gallery p {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 150%;
+
+    color: #3F3E3B;
+}
+
+#gallery i {
+    font-size: 1.6em;
+    color: #012C56;
+    cursor: pointer;
+}

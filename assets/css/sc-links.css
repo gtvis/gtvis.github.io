@@ -1,0 +1,26 @@
+.sc-links {
+    position: absolute;
+    bottom: 0.3rem;
+}
+
+.sc-links-relative {
+    position: relative;
+}
+
+.sc-links a:hover {
+    color: #F0B310;
+    text-decoration: none;
+}
+
+.sc-links a {
+    color: #012C56;
+    opacity: 0.7;
+    margin-right: 0.25rem;
+}
+
+@media screen and (max-width: 1000px) {
+    .sc-links {
+        position: absolute;
+        bottom: 0.25rem;
+    }
+}
