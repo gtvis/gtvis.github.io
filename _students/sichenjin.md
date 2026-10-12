@@ -8,7 +8,7 @@ degree_level: PhD
 major: CS 
 graduation_year: 2026
 graduation_semester: Spring
-role: Meta
+role: Research scientist, Meta
 research_interests: 
     - Data Visualization 
 faculty_advisor:
