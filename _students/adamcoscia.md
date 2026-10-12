@@ -18,4 +18,7 @@ research_interests:
 - Sensemaking
 twitter: https://twitter.com/AdamCoscia
 website: https://adamcoscia.com/
+graduation_year: 2026
+graduation_semester: Spring
+role: Assistant Professor of Computer Science, Stevens Institute of Technology
 ---
