@@ -7,6 +7,7 @@ faculty_advisor:
 image: /assets/images/students/alexanderbendeck_new.png
 lab:
 - Information Interfaces Group
+linkedin: https://www.linkedin.com/in/alexander-bendeck/
 major: CS
 graduation_year: 2026
 graduation_semester: Spring
