@@ -1,0 +1,46 @@
+/* Publications Section */
+#sYear {
+    margin-top: 0.5em;
+    margin-right: 1.5em !important;
+    margin-left: 1.5em !important;
+}
+
+#custom-handle1,
+#custom-handle2 {
+    width: 3em;
+    margin-left: -1.5em !important;
+    height: 1.6em;
+    top: 50%;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+}
+
+#publications h5 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6em;
+    color: #161614;
+    opacity: 0.8;
+}
+
+#publications .authors {
+    display: inline;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1em;
+    color: #3F3E3B;
+}
+
+#publications .venue {
+    font-family: 'Nunito', sans-serif;
+}
+
+#publications .separator {
+    width: 100%;
+    border-top: 1px solid #dedede;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}

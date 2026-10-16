@@ -1,0 +1,40 @@
+/* Page */
+
+#page h1 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.6em;
+    line-height: 1em;
+    text-align: center;
+    color: #161614;
+}
+
+#page hr {
+    border: none;
+    height: 6px;
+    width: 50px;
+    color: #F0B310;
+    background-color: #F0B310;
+}
+
+#page .intro {
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #3F3E3B;
+}
+
+@media screen and (max-width: 1000px) {
+    #page .intro {
+        line-height: 2em;
+    }
+
+    #page{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
