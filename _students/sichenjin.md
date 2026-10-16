@@ -6,9 +6,9 @@ lab:
 - VA Lab 
 degree_level: PhD 
 major: CS 
-graduation_year: 
-graduation_semester: 
-role: 
+graduation_year: 2026
+graduation_semester: Spring
+role: Research scientist, Meta
 research_interests: 
     - Data Visualization 
 faculty_advisor:
